@@ -1,0 +1,23 @@
+#!/bin/bash
+
+SERVICE_ACCOUNT_NAME="sql-client-kms"
+PROJECT_ID=`gcloud config list --format="value(core.project)"`
+
+KEY_RING="crashmeyer"
+KEY_NAME="symmetric-encrypt-decrypt"
+
+gcloud iam service-accounts create $SERVICE_ACCOUNT_NAME \
+  --description="A service account for Cloud SQL connections and access to KMS key" \
+  --display-name="$SERVICE_ACCOUNT_NAME"
+
+SERVICE_ACCOUNT_EMAIL=`gcloud iam service-accounts list --filter="displayName:$SERVICE_ACCOUNT_NAME" --format="value(email)"`
+
+gcloud projects add-iam-policy-binding $PROJECT_ID \
+  --member="serviceAccount:$SERVICE_ACCOUNT_EMAIL" \
+  --role="roles/cloudsql.client"
+
+gcloud kms keys add-iam-policy-binding $KEY_NAME \
+    --location=global \
+    --keyring=$KEY_RING \
+    --member="serviceAccount:$SERVICE_ACCOUNT_EMAIL" \
+    --role="roles/cloudkms.cryptoKeyEncrypterDecrypter"
