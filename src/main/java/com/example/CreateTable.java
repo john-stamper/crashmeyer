@@ -6,9 +6,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.security.GeneralSecurityException;
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 public class CreateTable {
-    public static void main(String[] args) throws GeneralSecurityException {
+    public static void main(String[] args) throws GeneralSecurityException, SQLException {
         Config myconfig = new Config();
         String tableName = myconfig.getDbTableName();
         DataSource pool = CloudSqlConnectionPool.createConnectionPool(myconfig);
@@ -31,7 +34,20 @@ public class CreateTable {
                 return;
             }
         } catch (Exception ex) {
-            ex.printStackTrace();
+            System.err.println("Exception loading SQL create table file from Resources");
+            System.err.println(ex.getMessage());
+            return;
         }
+        // Establish a connection
+        Connection connection = pool.getConnection();
+
+        // Create a Statement
+        Statement statement = connection.createStatement();
+        statement.executeUpdate(sqlStmt.toString());
+        System.out.println("Table 'sales' created successfully");
+
+        statement.close();
+        connection.close();
+
     }
 }
