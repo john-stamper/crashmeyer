@@ -1,0 +1,1001 @@
+purchase_uuid,customer_id,full_name,email_address,purchase_date,product_id,product_category,quantity,price_per_unit,total_price
+d392a8da-5a71-4feb-b5ac-32729acf2eb8,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-01-11,PROD_038,Apparel,7,20.71,144.97
+d5981701-eb3c-41d1-ae93-5cb3afbabcb4,CUST_004,John Johnson,john.johnson267@gmail.com,2025-06-18,PROD_031,Groceries,8,214.55,1716.4
+3512a48d-3729-4765-9ecc-d3fb7a09c13a,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-06-13,PROD_036,Home Goods,2,46.86,93.72
+42e85bb6-7fe4-401e-bd8a-03080f91a1fd,CUST_008,David Johnson,david.johnson984@outlook.com,2023-10-30,PROD_019,Home Goods,7,305.39,2137.73
+68041c8d-5cb4-45ce-9cb5-ef530d9b53a9,CUST_047,John Williams,john.williams507@gmail.com,2023-12-21,PROD_048,Electronics,2,441.08,882.16
+ac3883d2-a7b4-453a-844c-ed3c28e80357,CUST_042,David Martin,david.martin800@yahoo.com,2024-10-12,PROD_045,Books,2,442.04,884.08
+38f0b39f-4c8f-4c5c-be5d-aa07b5b68ced,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-03-15,PROD_036,Books,8,331.23,2649.84
+89110cba-ead6-4e6a-8174-e057ec43d887,CUST_044,David Williams,david.williams849@aol.com,2024-01-04,PROD_030,Electronics,2,109.56,219.12
+b46880de-7904-44b6-8a8b-46ebad4af733,CUST_041,William Miller,william.miller271@icloud.com,2025-07-21,PROD_049,Books,9,432.18,3889.62
+c6652424-6422-429f-84e4-dab765fec903,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2023-10-01,PROD_033,Apparel,1,443.62,443.62
+62ce0fe5-bbba-41ac-85e4-354f73737a67,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-02-02,PROD_018,Books,9,102.34,921.06
+994947c7-54b0-4095-b341-7b797834290d,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2025-01-30,PROD_049,Books,1,370.03,370.03
+52bfd562-b7b6-40aa-ac41-c63b0bdff1f3,CUST_042,David Martin,david.martin800@yahoo.com,2024-07-26,PROD_028,Electronics,2,146.83,293.66
+8c80038a-d55a-45af-a0e1-bb9796e54e00,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-09-02,PROD_047,Groceries,6,402.31,2413.86
+1f813294-f62f-4268-bf72-ee7fd18eb64f,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2023-09-24,PROD_011,Books,6,498.63,2991.78
+3ef0c691-865b-472a-a7f8-88c3c2be0565,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-02-28,PROD_045,Books,1,19.86,19.86
+5fbc2474-5fde-4e61-9519-d59251d3c285,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-08-04,PROD_033,Groceries,7,449.2,3144.4
+851962ba-fb09-487d-b494-8f20bb043567,CUST_023,Michael Moore,michael.moore356@yahoo.com,2024-02-06,PROD_017,Electronics,8,313.2,2505.6
+452836a9-a335-477d-8624-73a51a92d91d,CUST_042,David Martin,david.martin800@yahoo.com,2024-03-08,PROD_006,Groceries,2,486.82,973.64
+6202b03e-a121-4da1-ac2e-957dbeeb042e,CUST_044,David Williams,david.williams849@aol.com,2025-03-17,PROD_004,Electronics,8,235.18,1881.44
+e38cc6b0-e4b0-4bf7-aa20-63d12679df02,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-01-23,PROD_020,Apparel,9,424.46,3820.14
+8cfa1da2-1a38-4d6e-9b50-bc8e7dd1951a,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2024-05-19,PROD_048,Electronics,6,35.89,215.34
+1d543da2-7b45-49ff-9302-c9450268df21,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2024-11-17,PROD_047,Apparel,5,170.96,854.8
+24bfe124-ee0f-41ec-a5dc-3b9590e00680,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-12-24,PROD_027,Apparel,9,38.17,343.53
+edd97cca-3701-411c-95e4-bc3effcb4c72,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-03-14,PROD_015,Electronics,9,487.79,4390.11
+25f32811-cb3b-4041-95cf-27caa31564c2,CUST_017,James Thomas,james.thomas681@icloud.com,2023-10-09,PROD_006,Home Goods,1,409.4,409.4
+befeb726-d702-45d6-af88-035b67f7ebc2,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2023-08-22,PROD_047,Electronics,3,427.01,1281.03
+94f6793f-e599-478c-9f30-8fe5f4ad705e,CUST_017,James Thomas,james.thomas681@icloud.com,2024-04-03,PROD_014,Books,9,469.29,4223.61
+a29941be-ac63-4f01-b2e4-3a11f2de4fa9,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2025-04-22,PROD_011,Books,2,47.13,94.26
+8b0c5983-11dd-4d00-8bfd-22ce6c890b85,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-07-27,PROD_039,Home Goods,4,195.87,783.48
+d3884104-72da-4946-805f-7afb28c165c4,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-09-07,PROD_009,Apparel,4,40.16,160.64
+505f736e-be71-4827-bfec-d5c3945c4d51,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-01-11,PROD_026,Home Goods,2,109.34,218.68
+362156bd-eb9c-43ff-91f8-3dcde39b545a,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-07-18,PROD_016,Books,3,118.54,355.62
+aeeb5d2f-3612-43a0-b041-044ad665d924,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-06-14,PROD_005,Home Goods,3,237.21,711.63
+8be3a261-b54a-412d-b0bb-0ec38bad8067,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2023-08-31,PROD_010,Electronics,1,137.94,137.94
+e71cbc82-8b48-4c03-a87a-64945073b140,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2023-08-27,PROD_050,Home Goods,6,54.98,329.88
+8ac7da63-f2c4-4d12-ae01-14ee54fa1c9c,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2025-06-06,PROD_003,Apparel,8,87.91,703.28
+06481d87-3b9c-408a-9c5f-c4bba420a1ac,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-11-16,PROD_013,Electronics,3,77.9,233.7
+fff60c7b-c9a1-4574-bbd4-1ec18ee53947,CUST_032,Karen Brown,karen.brown731@gmail.com,2024-10-01,PROD_043,Groceries,5,486.67,2433.35
+7c08db78-9ba5-478a-8902-db594bc516ea,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-09-13,PROD_049,Books,1,380.85,380.85
+f13c995d-afdb-430d-9a5b-0087804f2954,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2024-08-16,PROD_030,Books,7,484.04,3388.28
+09828103-62da-4a53-a3ae-2dd7fd3de65a,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-04-09,PROD_045,Home Goods,1,222.67,222.67
+9ffc1ae9-904a-40cc-855f-eaf1e802dadb,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-12-19,PROD_006,Electronics,9,142.79,1285.11
+f1172b16-822f-4d61-a8cd-97618253a524,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-03-04,PROD_017,Groceries,8,400.16,3201.28
+a862ecb4-5365-46e6-8e30-2fb60b204ece,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2024-02-20,PROD_045,Electronics,7,166.5,1165.5
+b82efaab-92ed-4b74-a702-f340efc3732b,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2025-08-06,PROD_019,Books,7,153.19,1072.33
+b2f964bc-5796-429b-b6a9-0902e52545d8,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-10-20,PROD_042,Electronics,5,120.09,600.45
+809d7c48-4328-4b22-8d0c-8009112b8ac9,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2023-08-19,PROD_035,Groceries,5,69.19,345.95
+0a61be73-e5ad-470d-ac59-7b339b33b771,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2025-05-07,PROD_046,Home Goods,5,131.95,659.75
+0f61538f-a010-43b0-a80e-d3bf5c84c364,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-06-18,PROD_026,Apparel,1,180.88,180.88
+fe7d6275-b684-4a07-9eb0-c12d4395f33f,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-07-21,PROD_005,Electronics,8,338.63,2709.04
+cbed1a3a-5293-4174-98de-50ba4dd9856a,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2025-01-15,PROD_029,Apparel,1,35.97,35.97
+98defaed-c9c9-4bee-bf56-2ecd7f63e58a,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2023-09-26,PROD_037,Books,4,109.2,436.8
+af4b45dc-2c41-479c-aa61-3e268b04fd86,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2025-05-21,PROD_020,Home Goods,9,405.47,3649.23
+ccc30f51-408a-4332-9de1-55f918aa895d,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-02-11,PROD_049,Home Goods,9,77.73,699.57
+e342b602-c102-460d-b655-28ce57a6cf3c,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2024-07-12,PROD_021,Electronics,5,174.61,873.05
+d8919aa8-1010-449c-bc6a-8f6e1b9b7088,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-01-07,PROD_010,Home Goods,4,433.01,1732.04
+fdb76fbc-4371-4632-bfe8-79792fd6d358,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2025-07-02,PROD_005,Electronics,3,81.69,245.07
+ae38e156-f50b-4914-ac03-6775999711a2,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2023-10-15,PROD_036,Electronics,3,45.95,137.85
+7e32320d-a3dc-4997-b372-2ea1047d4cd7,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-05-11,PROD_006,Apparel,5,244.85,1224.25
+f5c152d4-1c7c-4b8c-875e-92ac784cc7e6,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-01-03,PROD_026,Home Goods,1,154.7,154.7
+b60ac491-2ba0-4756-8975-5a8f3a9d6ed1,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-10-11,PROD_004,Electronics,5,283.89,1419.45
+56bdc863-da8f-4a85-8bdc-53a3ad633456,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2025-05-23,PROD_039,Apparel,6,402.88,2417.28
+2273fb51-ae30-4c9e-9b6a-65ee51d015af,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-05-17,PROD_039,Groceries,7,72.89,510.23
+c14871c8-3058-4502-ba12-1baa92909081,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2023-10-27,PROD_050,Apparel,9,292.45,2632.05
+b811384b-70d2-4000-bdbd-c3c6663e29cf,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2023-10-14,PROD_035,Apparel,3,255.23,765.69
+ce2f92e1-260c-4afd-a0ba-40f296b7a39b,CUST_034,James Moore,james.moore306@aol.com,2023-09-03,PROD_001,Electronics,2,76.32,152.64
+a57b1ac3-4e59-4408-8419-6741a7731145,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-12-18,PROD_024,Books,3,313.88,941.64
+7032d902-ba0f-48b7-989d-ba30124812d9,CUST_036,Robert Martin,robert.martin381@outlook.com,2025-08-15,PROD_036,Books,9,140.45,1264.05
+51db3859-2efb-4788-a75a-a043c0a3623d,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2025-01-04,PROD_006,Books,7,246.48,1725.36
+3e021834-4d7a-413f-a709-02b4abf4886c,CUST_047,John Williams,john.williams507@gmail.com,2024-01-06,PROD_041,Apparel,9,45.72,411.48
+6974dc7e-9099-4665-a342-a20ed51581a1,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2025-04-23,PROD_046,Electronics,2,232.49,464.98
+30c10489-676b-4569-8395-de0e952d5d02,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2023-10-21,PROD_044,Home Goods,5,156.7,783.5
+6841f085-3d5b-4abf-abe6-85363bcd437c,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2025-05-06,PROD_031,Apparel,4,412.08,1648.32
+764c87ce-4731-4b3a-b9d7-8549b2d8b008,CUST_047,John Williams,john.williams507@gmail.com,2025-02-04,PROD_020,Apparel,2,33.2,66.4
+b4d8d839-e37d-4a18-9501-fcb561fe31ee,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2025-03-04,PROD_024,Electronics,9,212.21,1909.89
+62546523-83be-410d-8cb6-7f49bce05b03,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-05-19,PROD_025,Groceries,9,231.92,2087.28
+a80a5512-17d6-4eea-9e83-574c4d605d1e,CUST_034,James Moore,james.moore306@aol.com,2023-10-01,PROD_036,Apparel,6,363.88,2183.28
+dfd2f1e3-30ca-4da0-9466-25d104becda3,CUST_042,David Martin,david.martin800@yahoo.com,2025-04-17,PROD_021,Groceries,6,289.27,1735.62
+8e7c48d8-0ed6-466d-9faa-1ea127d5aabc,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2025-03-27,PROD_030,Groceries,8,335.27,2682.16
+1c73fd4b-7f3b-45bd-a22b-e9c86a150240,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2025-05-03,PROD_024,Books,6,389.64,2337.84
+23e30f4b-7865-4ab8-a87b-05180d5718a7,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-06-15,PROD_044,Electronics,1,431.79,431.79
+33215fa4-56cb-4fdd-8233-a17ac503b68d,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-10-16,PROD_042,Groceries,4,160.37,641.48
+ecbb7e20-fd86-46ab-8f15-2c9b348d5fa9,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-10-04,PROD_030,Electronics,7,271.32,1899.24
+89a52ee8-483a-4abf-8c0f-c102a806857a,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-11-21,PROD_022,Books,2,420.85,841.7
+df6cc44b-874d-4ab2-ae10-ed168828c347,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2025-08-08,PROD_028,Electronics,9,494.78,4453.02
+61c6fa12-0e4b-491c-8274-4bcfcd63254f,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2025-06-05,PROD_007,Apparel,8,445.31,3562.48
+bbafb967-f014-4ab1-a4e3-e78d2c816548,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-08-23,PROD_035,Groceries,8,188.88,1511.04
+c7449cc6-0207-4900-816f-e1809cf61543,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2025-01-06,PROD_028,Electronics,7,101.61,711.27
+828e7d55-b9bc-45bf-9817-35b0de4d8b2a,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-06-27,PROD_014,Home Goods,4,247.25,989.0
+efe37be5-7427-4f9d-a501-cdaf2b3fbad5,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-02-11,PROD_010,Electronics,2,372.11,744.22
+61ea943c-6c86-40df-ab91-b90d0d4026b1,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2024-08-12,PROD_016,Groceries,3,248.82,746.46
+aff59c8f-02ec-40fb-8a51-7e15e5cbc0d2,CUST_034,James Moore,james.moore306@aol.com,2023-09-01,PROD_016,Books,6,244.17,1465.02
+54e9518b-6ac2-4034-a6b2-c956dd08606e,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-11-26,PROD_031,Books,5,419.92,2099.6
+ea4ca5b8-c029-4e55-b64f-da4f5723f11e,CUST_008,David Johnson,david.johnson984@outlook.com,2023-09-27,PROD_042,Groceries,8,183.89,1471.12
+6c331669-a39f-4d84-8bd6-a73f2ce02e1a,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-10-03,PROD_025,Apparel,6,430.6,2583.6
+0f4e5ef4-1e4d-49ec-a38d-868bb7b15be4,CUST_032,Karen Brown,karen.brown731@gmail.com,2025-05-25,PROD_013,Apparel,6,206.37,1238.22
+578f4706-3066-446c-9ce4-66485ab99974,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-10-03,PROD_006,Books,1,167.48,167.48
+94d5c002-4f40-43fd-9d90-9148e8e5382a,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-04-28,PROD_044,Books,4,229.73,918.92
+a525bc87-762a-441d-b0ef-898fa2bccbcc,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-12-09,PROD_009,Groceries,5,382.41,1912.05
+bab40a7e-261a-4d0f-8fc2-3b106fec76c6,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-07-30,PROD_045,Apparel,3,67.37,202.11
+bff960b0-8c69-43c9-94f1-7de9538ac913,CUST_008,David Johnson,david.johnson984@outlook.com,2025-08-10,PROD_036,Books,9,102.23,920.07
+ee4fce3c-6e61-4cec-835a-8c2fade6460c,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-05-15,PROD_043,Apparel,1,475.97,475.97
+c6d0afe9-1267-4d1e-b8ad-d3ffb3f5fcb7,CUST_036,Robert Martin,robert.martin381@outlook.com,2025-05-25,PROD_020,Books,6,91.87,551.22
+436b8ad9-dd27-4558-a94c-9a6965444577,CUST_034,James Moore,james.moore306@aol.com,2025-01-21,PROD_018,Electronics,6,286.03,1716.18
+ad54ab75-832a-4c6e-8c5b-5f93aa8ad6ba,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-07-23,PROD_043,Home Goods,5,291.76,1458.8
+4999cfee-03f7-412f-83c0-d967e2af87b5,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-10-07,PROD_021,Electronics,5,247.36,1236.8
+4e4c9d6b-d166-42f6-99f6-4451caaf7d1d,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2025-07-26,PROD_004,Books,5,324.15,1620.75
+9e486dad-ccda-48d1-b4ec-01cc6ad942ba,CUST_017,James Thomas,james.thomas681@icloud.com,2024-07-03,PROD_050,Home Goods,6,118.76,712.56
+c32572fa-c6df-474f-91ab-4bf52c73f31b,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-03-20,PROD_033,Home Goods,8,278.57,2228.56
+165b97a5-b95d-4061-bac5-a6df73e63f39,CUST_034,James Moore,james.moore306@aol.com,2025-04-12,PROD_027,Books,2,189.23,378.46
+80dd6fcd-6674-43cd-9452-8f7df42eef49,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2023-09-17,PROD_007,Books,6,332.53,1995.18
+f90f019c-b30a-453f-a305-bd13d3363933,CUST_034,James Moore,james.moore306@aol.com,2025-08-03,PROD_006,Apparel,1,74.91,74.91
+effba8ac-7429-4ee7-8b8a-04af8b4698c1,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-08-05,PROD_015,Books,4,287.58,1150.32
+1252f391-fd67-4c45-a25b-a989cea4a344,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-05-22,PROD_018,Groceries,3,96.71,290.13
+bd53c42c-c7ab-4f1d-9f5f-a754fa54c312,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-03-11,PROD_032,Books,9,142.93,1286.37
+40ca30de-06cc-4886-a75a-5c574050c83d,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-02-27,PROD_011,Groceries,3,113.26,339.78
+61e867d3-87c7-4824-9da1-372565067f43,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-10-20,PROD_020,Books,6,95.5,573.0
+b73e0876-9c06-42c6-9dc8-5c4f091127ba,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-12-17,PROD_024,Apparel,1,413.73,413.73
+9d2c0746-5bdf-4e86-aa2d-452e027710da,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2025-04-17,PROD_015,Groceries,6,146.43,878.58
+01fdf708-91cc-4af2-aa73-93f66383ab68,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2025-03-23,PROD_048,Electronics,4,463.93,1855.72
+c8954039-0574-4ca0-84cd-a2030859cac0,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-01-28,PROD_007,Groceries,8,485.11,3880.88
+6e0391fe-732d-440f-ad10-0a5dfb0fe6c7,CUST_041,William Miller,william.miller271@icloud.com,2024-08-26,PROD_021,Apparel,9,287.77,2589.93
+0c2d7708-7fca-4edd-a688-e0efadffbf44,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2023-10-02,PROD_042,Groceries,4,75.79,303.16
+136633cc-bc8d-42fa-9f7c-6a5f5f7f4c41,CUST_030,Joseph Jones,joseph.jones989@aol.com,2023-11-25,PROD_026,Books,6,190.4,1142.4
+c6deb668-c7eb-41b0-9cb6-3cc972cbc187,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-10-12,PROD_044,Books,1,399.88,399.88
+dce0a4ef-c4fd-4d7f-8c56-4c11f2400bed,CUST_010,John Thomas,john.thomas602@yahoo.com,2023-09-22,PROD_014,Apparel,4,186.86,747.44
+770c1a87-d8d6-4b38-bb84-9135a727e805,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2024-11-02,PROD_037,Home Goods,7,48.07,336.49
+dedffbc4-ea73-450e-95e5-5aa1828d8a1f,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-10-14,PROD_021,Books,1,280.61,280.61
+f05c65e2-50c9-4437-a086-9aacb591dd69,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-01-01,PROD_018,Electronics,8,423.33,3386.64
+ac6e8d69-9ffe-4ade-8455-c6d35efd0f45,CUST_034,James Moore,james.moore306@aol.com,2023-08-25,PROD_005,Apparel,6,398.98,2393.88
+f143990c-7558-4dd7-b148-aab8cfe91ffc,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2023-10-25,PROD_003,Groceries,5,91.69,458.45
+d75c3c8a-761c-4478-8527-b0d224acb207,CUST_047,John Williams,john.williams507@gmail.com,2024-02-15,PROD_023,Groceries,9,338.02,3042.18
+7cf7c21c-beac-4681-a1a9-7b1250a94dc7,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-08-30,PROD_026,Electronics,2,114.15,228.3
+e1555b54-3d84-45f1-8d39-720c823b6a71,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-10-09,PROD_037,Books,5,113.01,565.05
+572127cd-9e96-4e37-aae7-3e0792993b61,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2025-06-19,PROD_024,Apparel,6,437.67,2626.02
+94415bc9-74ce-4870-a8bb-682c44fc6f97,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2023-11-13,PROD_049,Electronics,7,128.59,900.13
+fe3e4044-7a3f-4417-8e00-94620adf7ed7,CUST_047,John Williams,john.williams507@gmail.com,2023-09-03,PROD_019,Books,5,135.31,676.55
+049e31a4-65d9-43e5-ba4a-c2095398bdc0,CUST_023,Michael Moore,michael.moore356@yahoo.com,2025-07-13,PROD_025,Apparel,9,5.32,47.88
+33ba42e4-767b-4b58-b227-74ae2e4b12f3,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-05-29,PROD_021,Groceries,1,435.98,435.98
+8f358d0b-f8da-45e5-9428-9dc685d5972d,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2025-05-16,PROD_012,Apparel,7,397.33,2781.31
+9ff1628c-35e3-4290-af0d-cd983eba9162,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2025-01-22,PROD_041,Home Goods,7,315.53,2208.71
+84205d9d-14d4-4db6-b734-9f46a32925cd,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-08-29,PROD_033,Apparel,4,376.38,1505.52
+81643fbb-f492-4cf4-8a81-b6943a1987c8,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2024-09-19,PROD_050,Home Goods,9,80.26,722.34
+bba5f9a4-836b-40cc-840f-6a1997738841,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2023-08-23,PROD_004,Apparel,5,231.87,1159.35
+6c15984d-e21b-4466-a6be-9181f0074e2a,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2025-03-11,PROD_042,Home Goods,4,178.85,715.4
+18875765-9ed0-46f8-a8a1-31e79aca74b0,CUST_008,David Johnson,david.johnson984@outlook.com,2025-07-24,PROD_007,Groceries,7,51.42,359.94
+ee0ddbb3-6630-4ddd-ad3c-d0f161a9ac38,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-07-09,PROD_022,Books,4,245.63,982.52
+02ec37f8-b083-4d9c-bddc-f97dac11f55b,CUST_047,John Williams,john.williams507@gmail.com,2024-03-19,PROD_033,Home Goods,3,460.77,1382.31
+60c3e1ed-e30d-47f9-af9c-24f77ecc936a,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-08-18,PROD_017,Home Goods,9,24.83,223.47
+a0a231d0-5512-461a-a2f5-2d1ebed2c0b0,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-07-31,PROD_024,Groceries,8,149.27,1194.16
+6e88378c-bbec-4e26-bfd9-41dd0f84205c,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-03-03,PROD_034,Home Goods,1,107.73,107.73
+ad0fe32d-da72-4005-9c89-b7b64e6d6dfc,CUST_032,Karen Brown,karen.brown731@gmail.com,2025-03-18,PROD_028,Electronics,7,122.88,860.16
+181915a2-9baa-45ce-bdd7-6ea1b41da876,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-02-02,PROD_043,Groceries,9,454.68,4092.12
+dfb6ae92-1a11-4258-bd35-7d81ecc432de,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2023-09-28,PROD_041,Electronics,8,236.69,1893.52
+718ec06d-3a8d-4c55-9d80-057df5192693,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2023-12-18,PROD_039,Groceries,8,235.82,1886.56
+2e8d8626-37a1-41c7-8827-728e650acc8e,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2023-12-09,PROD_022,Home Goods,6,381.48,2288.88
+72a835c4-4ac2-403f-a62a-f4538d0052f7,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2024-06-23,PROD_049,Electronics,4,81.47,325.88
+30db69c1-c7ae-467c-81d0-1ed69b595c06,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-12-10,PROD_017,Home Goods,8,246.2,1969.6
+23e935db-bc94-4c41-a2a5-ef034d97f8a4,CUST_036,Robert Martin,robert.martin381@outlook.com,2025-04-22,PROD_034,Groceries,3,217.84,653.52
+3dc2dcf6-0a21-4822-b398-608a1dd59e38,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-03-23,PROD_006,Home Goods,9,300.47,2704.23
+18190f87-6ba0-464f-b401-6cc0c7de06ea,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-01-17,PROD_046,Electronics,2,499.78,999.56
+5d4ba044-b0f5-4981-99bd-fedaf081491f,CUST_042,David Martin,david.martin800@yahoo.com,2024-09-16,PROD_006,Electronics,2,385.88,771.76
+ec055aef-b7eb-4f3b-bbca-8e8749e53dae,CUST_042,David Martin,david.martin800@yahoo.com,2024-06-25,PROD_034,Home Goods,7,201.94,1413.58
+dc884f33-8b4c-4e11-8e75-c6cb6cdadd31,CUST_044,David Williams,david.williams849@aol.com,2024-10-26,PROD_001,Apparel,4,414.64,1658.56
+737ff031-5d9c-40f1-808f-a3ac748897c5,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-08-11,PROD_010,Groceries,8,89.5,716.0
+497e7385-6aa5-4eba-8239-a92b47402407,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2025-02-12,PROD_021,Groceries,9,20.08,180.72
+dac1f7ef-5979-4b7a-a305-bffda87eebc6,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-12-14,PROD_005,Home Goods,7,106.2,743.4
+1b07678b-a664-4956-a0cb-85ec95e0836a,CUST_041,William Miller,william.miller271@icloud.com,2023-11-19,PROD_002,Apparel,5,173.5,867.5
+b806e96a-dc57-474e-aa08-5b95277d0deb,CUST_034,James Moore,james.moore306@aol.com,2024-11-22,PROD_022,Electronics,8,257.74,2061.92
+20d6c2bd-d5b8-496a-886e-c23e192234cd,CUST_036,Robert Martin,robert.martin381@outlook.com,2023-11-13,PROD_048,Books,4,309.49,1237.96
+d6e4a67c-d8d0-4dbc-b8f7-c766e2f0a985,CUST_041,William Miller,william.miller271@icloud.com,2024-12-23,PROD_002,Books,2,455.75,911.5
+b34fa010-0aff-4d97-baee-a633f8ee12d4,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-03-05,PROD_010,Home Goods,6,257.38,1544.28
+bc9f365c-826d-4354-8068-d192fb008f84,CUST_017,James Thomas,james.thomas681@icloud.com,2024-02-12,PROD_034,Apparel,9,253.13,2278.17
+d88b20ba-27a0-4043-81a5-7e628573167b,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2025-07-27,PROD_016,Apparel,1,29.87,29.87
+379d4cdf-8833-442e-a936-c28924cf1033,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-03-15,PROD_048,Groceries,7,22.28,155.96
+387accc8-26f6-41e7-9aaa-c32a6e5d95d0,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-05-09,PROD_039,Electronics,9,277.82,2500.38
+d594fd9a-db4c-4215-b37f-f8db22d5ba38,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-04-26,PROD_022,Apparel,9,221.9,1997.1
+26351d47-cdb1-4c3e-abfd-8b2f8ca04bb6,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2023-12-27,PROD_012,Books,3,420.39,1261.17
+5e6ee0e0-8107-46ce-83f9-6c07c86541d2,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-10-23,PROD_024,Electronics,5,84.54,422.7
+a39efc63-40db-4289-9461-3e166a238344,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-03-09,PROD_047,Electronics,8,17.36,138.88
+ad08714c-a852-4a93-92fa-e37cb844177f,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-09-17,PROD_040,Home Goods,8,227.27,1818.16
+3f1a6bf0-323b-4f37-ae3f-2ad5b27baba6,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2025-08-15,PROD_038,Apparel,4,122.55,490.2
+a945c0f7-8739-473d-a26a-65abd6cc276e,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-08-07,PROD_010,Home Goods,1,29.56,29.56
+06c7b558-ea5a-4d03-8ccd-861c04835d3d,CUST_042,David Martin,david.martin800@yahoo.com,2024-10-28,PROD_035,Apparel,1,363.68,363.68
+481f6d70-76eb-4e28-85f6-ae97b4e2eb58,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-02-11,PROD_049,Groceries,4,60.24,240.96
+d39bde1e-c70b-48af-95d7-4355eaad2c8e,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-10-03,PROD_032,Home Goods,6,306.12,1836.72
+cbe8bccd-356e-4ab9-b0ec-0a0e43018f5a,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2024-04-02,PROD_007,Home Goods,8,144.12,1152.96
+88bc0055-74f8-4df2-a57c-9ec15e4753b2,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2024-08-01,PROD_021,Books,6,90.88,545.28
+99a9d30f-d00c-4dbf-8617-e10ebcf1ef35,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2023-12-03,PROD_020,Home Goods,9,192.98,1736.82
+284e3936-b30e-4dd5-9bea-2d7b5ae15e77,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2025-08-03,PROD_026,Apparel,9,401.72,3615.48
+292a74c1-6c91-4f86-9eb9-bd2de32609d3,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-03-31,PROD_004,Books,2,199.09,398.18
+9f9f1c82-b8b3-4280-bd95-1b316b29652f,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2024-12-29,PROD_046,Home Goods,1,376.63,376.63
+711ed0d4-2399-4136-afea-6c687f6a9326,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2025-05-25,PROD_022,Home Goods,2,67.12,134.24
+0563ec99-cf31-4c2b-86bc-7d709fe08eef,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2025-04-09,PROD_015,Groceries,5,387.52,1937.6
+8d7c380d-6ddf-4891-b3fb-ed2f20cf926c,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2025-03-25,PROD_040,Home Goods,4,122.28,489.12
+9a944aed-b256-45f9-bb5f-41d1dabe2244,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2025-07-20,PROD_021,Electronics,4,340.31,1361.24
+bf8db8a2-b703-47f7-b327-831bc606c028,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2025-06-12,PROD_015,Books,9,285.06,2565.54
+baa040df-0e00-4193-88a6-f7bc9b671ba3,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2025-03-07,PROD_022,Electronics,8,464.93,3719.44
+ef8bf68e-8641-4f5a-9007-f9f305614ff8,CUST_017,James Thomas,james.thomas681@icloud.com,2024-12-31,PROD_028,Books,6,196.72,1180.32
+d5745b33-1fa8-41ad-a54d-fa068ac6e45a,CUST_041,William Miller,william.miller271@icloud.com,2024-11-29,PROD_014,Groceries,1,37.75,37.75
+d8371607-e86e-4674-8c75-fe10f505af10,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-05-25,PROD_027,Home Goods,2,14.48,28.96
+8355a078-9a90-4793-94f2-85fe96cbc9a4,CUST_023,Michael Moore,michael.moore356@yahoo.com,2024-06-19,PROD_041,Home Goods,6,414.29,2485.74
+df0fd426-579a-4b0d-b43c-8257818a1cd2,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-05-14,PROD_040,Home Goods,2,264.74,529.48
+9c8aa4e4-3af9-48c8-a9ef-791d93b27818,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2023-10-11,PROD_028,Books,5,388.75,1943.75
+fb93f67e-e3bf-4ba3-ab20-070e323f5fe7,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-10-20,PROD_026,Home Goods,5,121.04,605.2
+81bca363-967d-4b7b-a307-ee1e1e1472c3,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2024-10-18,PROD_049,Electronics,6,175.82,1054.92
+0780bd5c-098f-4fef-9f50-075a57f66992,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-11-03,PROD_002,Home Goods,6,19.9,119.4
+77f4bc5e-e546-479d-a4a3-9113fe81ce44,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-07-18,PROD_025,Groceries,6,480.94,2885.64
+6b930040-a113-4a00-97b5-7642f62b1ae0,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2025-08-07,PROD_003,Electronics,2,335.59,671.18
+1ed7fe49-3b9a-453a-977a-d21cb34be395,CUST_008,David Johnson,david.johnson984@outlook.com,2023-09-10,PROD_008,Home Goods,3,466.94,1400.82
+0a5c9924-1e6f-4685-9fe9-62a6a6063ca3,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2023-11-26,PROD_044,Home Goods,6,136.42,818.52
+b63ce2ce-bb63-467f-a2f1-4d318bf40ceb,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-11-20,PROD_033,Apparel,8,307.67,2461.36
+2bddebcd-4f55-4db3-aa94-e6808b128306,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2024-01-03,PROD_042,Books,1,340.86,340.86
+722c5ed7-d841-4e40-a6d7-6d386358f297,CUST_034,James Moore,james.moore306@aol.com,2023-12-21,PROD_035,Electronics,1,162.19,162.19
+cf1ef9c6-5e17-4127-9245-83656c48f2ce,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-08-21,PROD_006,Apparel,2,424.81,849.62
+c6441853-1374-4058-b88c-397780fee192,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-12-03,PROD_039,Groceries,6,473.84,2843.04
+5940a4ac-a4b6-4dfc-9534-6b45a5830b2f,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2025-04-06,PROD_023,Books,9,443.0,3987.0
+b581aabb-30cd-4fd4-9f94-0c136af4e1b1,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-11-14,PROD_025,Electronics,4,370.84,1483.36
+dd6871af-37a1-4327-acda-b84aa8019ede,CUST_032,Karen Brown,karen.brown731@gmail.com,2023-10-04,PROD_050,Home Goods,3,142.35,427.05
+f66698f4-7636-4b60-8038-60931fcb08db,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2024-03-22,PROD_043,Electronics,8,144.4,1155.2
+cd88962f-755d-4869-90d7-f5558e15902a,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-10-08,PROD_019,Home Goods,9,481.86,4336.74
+d458d615-6cd8-4442-a6c3-8b811c6717a9,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-01-19,PROD_005,Books,5,10.09,50.45
+36150957-00a3-4bfa-acd1-5dcf73b4e543,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-11-06,PROD_011,Home Goods,9,359.44,3234.96
+7f6ff973-178e-4f49-a09c-762b70811a8e,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-04-18,PROD_012,Groceries,2,354.59,709.18
+01719ae4-f5d5-43ff-8b4a-3566d1edcaf5,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2025-05-02,PROD_010,Home Goods,3,313.23,939.69
+91c3806d-906a-4e48-a822-d5c9e6e899ef,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2023-09-30,PROD_008,Groceries,7,495.1,3465.7
+7aef7656-fa07-48a6-93ec-f5cea027a245,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2025-01-25,PROD_024,Books,7,159.38,1115.66
+b991e001-39de-4f9f-a710-f381570a0dc9,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2025-03-05,PROD_028,Books,6,173.29,1039.74
+57481567-6ebc-4437-b420-cca099fc27a2,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-10-16,PROD_041,Electronics,6,44.08,264.48
+e1aa5f6c-c3f2-4d72-81b5-3ff404718e2d,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-04-07,PROD_036,Groceries,2,224.19,448.38
+1d4df6f4-2176-4ce6-a98a-312ff22924d5,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2023-11-24,PROD_037,Groceries,6,134.22,805.32
+f161304f-9108-4baf-88a7-17d45832a0b8,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-02-08,PROD_021,Apparel,4,174.98,699.92
+96ced43c-78d3-4fe4-a358-4d2ebe81e527,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2025-03-14,PROD_008,Apparel,3,418.11,1254.33
+1a0e9fc1-1fe9-4cad-98c6-4fb3432eb365,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-08-15,PROD_009,Apparel,2,468.06,936.12
+65c30370-5876-472f-bbad-963e66aa04c7,CUST_023,Michael Moore,michael.moore356@yahoo.com,2023-08-29,PROD_047,Home Goods,1,96.94,96.94
+56572b4d-c0f8-4d4f-9894-b2e4913a387c,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2023-12-06,PROD_015,Apparel,5,189.39,946.95
+1fce20fa-8a33-46e0-a442-b7bf1bec8f3c,CUST_032,Karen Brown,karen.brown731@gmail.com,2024-12-09,PROD_048,Groceries,2,464.67,929.34
+8b6b3d30-a290-459d-9ba1-c2a479e01a7e,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-09-17,PROD_046,Home Goods,2,35.6,71.2
+c7326e90-be96-4865-b577-c45be40e1eb2,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2023-11-14,PROD_040,Books,7,50.72,355.04
+8470b24b-5487-4036-b9e2-944bb4cc19e6,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-03-24,PROD_018,Electronics,8,85.58,684.64
+b552a544-5b18-4d37-ba86-7cf2728bef5b,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-10-28,PROD_042,Apparel,8,299.63,2397.04
+0a244c39-773c-446e-988f-70552e26e078,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2025-07-28,PROD_020,Books,4,79.48,317.92
+43ef34e8-5ca8-47c3-8fb5-185772295dd1,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2024-11-08,PROD_006,Groceries,1,484.2,484.2
+280c8cd9-8cb7-4f9e-b735-17fa65c92720,CUST_034,James Moore,james.moore306@aol.com,2025-08-16,PROD_012,Electronics,7,226.12,1582.84
+4be3c5d3-ee87-4ef3-bea9-c45718a3fce3,CUST_008,David Johnson,david.johnson984@outlook.com,2025-04-20,PROD_002,Books,1,253.25,253.25
+ce69c5eb-75d1-4524-a7d3-23b6e908b344,CUST_004,John Johnson,john.johnson267@gmail.com,2025-07-13,PROD_007,Electronics,4,127.1,508.4
+48fc8f4b-30bf-433b-9230-e12c94dd2a69,CUST_034,James Moore,james.moore306@aol.com,2025-01-31,PROD_016,Apparel,8,238.13,1905.04
+9f88a8f3-40f9-4de9-9dfb-d2b323256e8b,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-04-19,PROD_003,Groceries,2,332.65,665.3
+5c6b3fa3-ecd8-4e3f-adcf-861560cd9867,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2025-06-19,PROD_045,Electronics,6,376.83,2260.98
+b27746d2-6fb0-48d8-9c65-00c05c14ebf5,CUST_047,John Williams,john.williams507@gmail.com,2025-03-09,PROD_003,Books,6,378.16,2268.96
+4109bb91-0e1e-41de-9adc-95b53c24caa7,CUST_030,Joseph Jones,joseph.jones989@aol.com,2023-09-26,PROD_027,Apparel,9,291.06,2619.54
+4f88e30f-4a6a-48a0-bdb5-1c15120d181a,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2025-01-23,PROD_050,Apparel,5,452.66,2263.3
+b04e9a2a-84c4-4bc2-bd12-474bc14fe3a2,CUST_034,James Moore,james.moore306@aol.com,2025-08-05,PROD_043,Books,4,409.62,1638.48
+8f7fa5a4-dc66-453c-913a-50132d5aa992,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-04-14,PROD_040,Books,5,379.74,1898.7
+d781f379-f81c-49fd-9bb9-65e732fea3a7,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-11-14,PROD_038,Electronics,5,32.52,162.6
+ee45be25-8353-46b0-9e3a-a2d0f871bc6b,CUST_047,John Williams,john.williams507@gmail.com,2023-09-24,PROD_033,Home Goods,8,8.4,67.2
+dfc7666e-2ad3-4daf-8fd1-7f56b6c1e92b,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2024-12-18,PROD_028,Apparel,8,110.16,881.28
+79023f46-b347-492f-8bf0-7500ad765b6e,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2025-01-13,PROD_001,Electronics,2,333.44,666.88
+1159af64-078a-4d8b-a198-a38370df12c3,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-12-09,PROD_008,Books,7,208.54,1459.78
+e86feb14-64b9-423e-ad04-abe6dc5c471f,CUST_010,John Thomas,john.thomas602@yahoo.com,2025-04-13,PROD_037,Electronics,8,204.19,1633.52
+2e8c9645-6138-42d3-b12e-9fe4b6f63679,CUST_004,John Johnson,john.johnson267@gmail.com,2025-01-12,PROD_032,Books,6,442.87,2657.22
+585a2d31-6ba4-4b55-b8ba-921628907505,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-10-15,PROD_048,Groceries,5,448.3,2241.5
+f45c4053-5411-49c8-a3fa-abc177aeeaad,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-02-13,PROD_043,Books,9,455.04,4095.36
+a4ada919-e8aa-4669-a186-4240f60a0522,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-07-09,PROD_037,Books,3,160.37,481.11
+12875a0c-2cca-4e14-beb5-97e37e31f204,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2025-01-06,PROD_004,Books,4,347.07,1388.28
+e2db3b95-b33b-409e-85a4-ada809f41ec8,CUST_004,John Johnson,john.johnson267@gmail.com,2025-02-14,PROD_030,Home Goods,9,139.46,1255.14
+f7215a5e-a043-46fc-96c2-8d69f79f04bc,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2024-04-09,PROD_006,Books,6,99.35,596.1
+73d511d0-9d66-4697-8eb5-53f1a788e885,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2024-06-16,PROD_046,Apparel,8,96.39,771.12
+7d7188a1-f890-4807-97b6-8bc269a098a3,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2025-02-20,PROD_019,Apparel,7,174.34,1220.38
+9a63a2b8-3f25-4703-90c2-4f08ec579548,CUST_042,David Martin,david.martin800@yahoo.com,2024-06-15,PROD_032,Electronics,2,217.83,435.66
+dffbf837-2798-41e7-95b1-9b7e471162bc,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-10-27,PROD_009,Home Goods,3,416.32,1248.96
+91a435e0-0fb5-4873-8671-b4caba73b0e8,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2025-03-19,PROD_012,Electronics,1,64.35,64.35
+7fba6d9e-8370-4f06-8666-a11a06522514,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-07-29,PROD_011,Apparel,9,368.79,3319.11
+d5e7e0ef-a511-4fe3-bd2e-331b4c401960,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2023-11-18,PROD_046,Apparel,7,268.07,1876.49
+2759e8a2-6989-41a1-a437-4e3a98644b0f,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-10-13,PROD_016,Groceries,1,147.53,147.53
+2c6bb9fe-257d-4f56-8072-bb0b9a3e589c,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2024-09-15,PROD_001,Books,3,248.95,746.85
+c6de9b5d-71fb-4819-a7a8-d68bb8b4bca8,CUST_041,William Miller,william.miller271@icloud.com,2024-08-07,PROD_045,Apparel,4,153.47,613.88
+9bcffe3d-d291-42f7-b37f-dd0edaa47e47,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2025-08-09,PROD_021,Electronics,4,300.06,1200.24
+fba4fd7e-646e-4ec6-b7af-db113b175cf8,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-09-10,PROD_030,Electronics,5,219.75,1098.75
+cddaaee1-cc01-4b04-8953-d6531a6849e6,CUST_039,David Johnson,david.johnson430@yahoo.com,2025-04-10,PROD_013,Books,3,86.38,259.14
+c5d99444-76a3-4775-b3e9-cd0f6ca0cebc,CUST_042,David Martin,david.martin800@yahoo.com,2023-10-18,PROD_034,Books,3,62.71,188.13
+ae4aa6f6-f4e9-4ce2-8f7f-ce169fe7a556,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-08-30,PROD_004,Groceries,1,275.61,275.61
+5011caa5-6a4f-4724-beeb-e018fb6d70de,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-08-24,PROD_028,Home Goods,7,451.69,3161.83
+82802fd1-8742-483e-91d9-6eeb7710349c,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-03-18,PROD_038,Electronics,1,175.26,175.26
+1b98e55f-924c-4adc-8f37-df11265545b5,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2024-04-09,PROD_031,Books,2,367.84,735.68
+5cdbc524-0d8b-42f8-be74-866a1dce6b27,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2025-05-23,PROD_027,Electronics,4,331.04,1324.16
+b95ee83b-678b-4383-baa9-9580b0e05774,CUST_047,John Williams,john.williams507@gmail.com,2025-02-23,PROD_005,Books,4,466.12,1864.48
+aea3df69-5c62-48f2-bf93-9c9fe9c6a045,CUST_044,David Williams,david.williams849@aol.com,2025-02-05,PROD_025,Apparel,5,411.39,2056.95
+44ff4816-4e0c-4cce-afcc-63c0426f298e,CUST_023,Michael Moore,michael.moore356@yahoo.com,2024-10-10,PROD_003,Electronics,2,285.47,570.94
+9c0d38a6-636e-48aa-b54f-ad405538a25c,CUST_039,David Johnson,david.johnson430@yahoo.com,2025-04-20,PROD_033,Apparel,4,330.23,1320.92
+50df1176-e681-4699-a16e-6f55adcd764c,CUST_039,David Johnson,david.johnson430@yahoo.com,2025-01-11,PROD_004,Electronics,1,449.7,449.7
+c818d83d-a27c-400f-9ab1-886c70d431b5,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-06-16,PROD_025,Home Goods,2,202.76,405.52
+f5693104-fc5d-4785-80d0-2b0c46d7b06c,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-06-29,PROD_020,Groceries,1,166.76,166.76
+6dd8cbad-60e2-40cf-a99e-6d89fce81875,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2025-04-25,PROD_034,Apparel,4,10.35,41.4
+141b5c6e-c3cc-4688-a9e2-f93b5171196e,CUST_042,David Martin,david.martin800@yahoo.com,2025-03-25,PROD_026,Books,4,414.14,1656.56
+55d988d4-5e70-4238-91b9-cfd03b06325f,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2024-02-26,PROD_005,Home Goods,7,401.49,2810.43
+293980d9-d2a3-41f1-b369-a134c08c7621,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-11-08,PROD_035,Electronics,9,56.7,510.3
+c3f6e367-0c8b-466b-974a-d4380b1284c5,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-10-18,PROD_028,Apparel,9,290.54,2614.86
+0a715faf-5c89-486c-bcd8-902b1054eba2,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-01-07,PROD_029,Electronics,5,234.67,1173.35
+95dab201-9dcf-455b-841d-a4c4ec8e9650,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-09-06,PROD_009,Electronics,1,63.76,63.76
+a534bb31-a287-4133-af73-4d401d9b9bfc,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-08-16,PROD_038,Electronics,1,490.38,490.38
+b22abe02-32a2-439a-a651-dcd4ac2523c4,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2025-03-23,PROD_050,Groceries,6,111.27,667.62
+8c2faac7-b98d-4ed7-b50f-e132f78535c8,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-11-03,PROD_006,Groceries,2,38.28,76.56
+38204e48-c905-4ee8-843a-2d0f46552630,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2023-11-02,PROD_019,Books,8,299.45,2395.6
+85ff3601-eb43-4cec-a583-cabcbba1f3e4,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-06-25,PROD_044,Apparel,9,370.74,3336.66
+3b661129-0c60-4421-b70f-c52d35a81a34,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-10-17,PROD_011,Home Goods,4,21.06,84.24
+df1a80a9-2be0-49a2-b0a0-4e910a859b2b,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2025-06-09,PROD_002,Home Goods,5,331.07,1655.35
+4d5bf909-cc8d-41c0-a9dd-fffabed54300,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-08-21,PROD_047,Home Goods,8,268.48,2147.84
+7a329080-231d-4499-b6c5-8df0819993e9,CUST_017,James Thomas,james.thomas681@icloud.com,2023-12-24,PROD_044,Electronics,3,56.12,168.36
+23f2f3f4-955a-427c-a3d9-0b5d7fc5edac,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2025-01-09,PROD_044,Groceries,5,90.4,452.0
+a7a30b87-103d-4905-a972-945d1d5ca907,CUST_039,David Johnson,david.johnson430@yahoo.com,2023-09-13,PROD_009,Apparel,3,286.15,858.45
+103ba985-f51f-482c-a3c8-96ecfb5fe1ae,CUST_041,William Miller,william.miller271@icloud.com,2024-01-20,PROD_021,Electronics,3,151.7,455.1
+9d669484-fae8-4a57-9a23-d8625179602e,CUST_041,William Miller,william.miller271@icloud.com,2024-01-10,PROD_024,Groceries,3,469.47,1408.41
+2dc093af-29b5-438e-8e77-6163764f0ce5,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-03-09,PROD_034,Groceries,7,410.28,2871.96
+fbba264a-1a41-4adf-a7f0-d3dd1e811fcd,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2023-10-06,PROD_022,Apparel,7,491.87,3443.09
+0c6eb66c-7940-4b50-a9aa-3a03cd685123,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2025-05-20,PROD_003,Apparel,7,133.54,934.78
+d00e1801-d899-4b11-b529-63c2a3570807,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2023-09-29,PROD_012,Apparel,8,485.01,3880.08
+f0b6d967-00b7-4618-b376-47d253fd1fde,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-01-10,PROD_028,Electronics,5,218.46,1092.3
+9cce6a40-b679-4546-85a9-e3a0e9d2cbfe,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-01-06,PROD_030,Books,5,177.02,885.1
+0d3b2b31-902c-4667-a66c-fa7aebb59f13,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2025-03-11,PROD_026,Apparel,4,29.92,119.68
+bdf0a0f3-4561-455b-b7b8-3544123da5f9,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-04-15,PROD_048,Books,7,31.12,217.84
+f20e4ba2-dadb-47b9-97b0-497a02c5a5bc,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2024-09-27,PROD_021,Electronics,4,347.55,1390.2
+89992caa-0c09-48de-b4e4-7572beecce4d,CUST_039,David Johnson,david.johnson430@yahoo.com,2023-12-16,PROD_028,Books,2,231.67,463.34
+229d834b-5063-47eb-b87b-56a86db1fe30,CUST_032,Karen Brown,karen.brown731@gmail.com,2024-08-01,PROD_026,Home Goods,4,117.13,468.52
+f666c48d-5a14-4633-8b6a-fbf89e476b78,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-05-07,PROD_033,Books,8,308.92,2471.36
+4369da2c-a746-45d0-911d-5d72c5f9b90e,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-04-10,PROD_021,Apparel,9,130.16,1171.44
+76c2a5ae-5be2-4ee1-8072-b23a6e9ce9b9,CUST_036,Robert Martin,robert.martin381@outlook.com,2023-11-12,PROD_035,Electronics,3,290.93,872.79
+4233cd57-3cfa-4a7a-a95c-7a2ecbed6dc1,CUST_004,John Johnson,john.johnson267@gmail.com,2023-12-12,PROD_034,Apparel,7,182.81,1279.67
+705a7f86-5357-40c3-9558-6bbfd4148faf,CUST_042,David Martin,david.martin800@yahoo.com,2025-07-29,PROD_041,Home Goods,9,412.66,3713.94
+45dd50f1-dda7-4670-80cf-eaec4f9f8224,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-05-20,PROD_047,Apparel,4,411.24,1644.96
+a83b8420-c5c7-4141-bd16-0fc0ecea7f34,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-04-22,PROD_018,Apparel,3,241.29,723.87
+918910d3-abb3-4538-a07f-6decf2e558f3,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-01-01,PROD_011,Apparel,5,178.66,893.3
+32d3bcff-d567-4c1b-a44b-e1a1a995ea48,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-07-16,PROD_023,Groceries,1,184.47,184.47
+058ceb42-9e50-48e0-911d-5316dbfb5a9f,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-11-11,PROD_048,Home Goods,3,403.83,1211.49
+a50090ba-2f2d-4bb0-b6a1-89adabd4f6f9,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-08-17,PROD_022,Apparel,8,167.45,1339.6
+d51d749e-0634-4a24-92e8-d675c98ce603,CUST_042,David Martin,david.martin800@yahoo.com,2024-09-20,PROD_017,Apparel,8,108.48,867.84
+e9521044-ba23-45ca-9d99-9ceeda46b480,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2023-11-15,PROD_005,Apparel,4,46.92,187.68
+3e6a7e05-be7d-4506-b3b9-bd3676b577f4,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-09-07,PROD_044,Electronics,2,236.01,472.02
+adde7814-6237-4084-bbd9-076932c59f77,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-05-19,PROD_011,Groceries,8,243.66,1949.28
+8a9342b9-0218-48d9-9640-bc2851766267,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2023-12-25,PROD_030,Electronics,8,421.25,3370.0
+412eb8b6-2996-4cf2-8947-9b90ddd2b33a,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2023-08-23,PROD_015,Groceries,4,114.51,458.04
+41080e06-9a3d-4841-8d67-195e1339e933,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2023-11-01,PROD_027,Apparel,3,193.59,580.77
+b566e207-2335-47c7-afb5-5da7b3916625,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-06-13,PROD_035,Home Goods,2,405.16,810.32
+7ab12d1b-0f57-427b-9aa3-105568cde138,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2025-06-02,PROD_033,Books,9,412.69,3714.21
+c528ef4b-23ba-45b3-ad74-1edf1c0217ff,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-09-06,PROD_020,Books,1,195.38,195.38
+cf546260-e195-429f-a68b-b03924591c8b,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2025-03-27,PROD_016,Apparel,7,232.27,1625.89
+8af924eb-ad63-4ae9-b880-00bbbe66ecf1,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2023-12-21,PROD_034,Electronics,5,155.13,775.65
+ec12fdc2-0b62-48ef-9ffc-3dc662176d77,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-05-01,PROD_002,Home Goods,8,466.61,3732.88
+7f0729a4-0c6b-4eab-99ee-5f6b6496c064,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-06-26,PROD_035,Groceries,4,63.73,254.92
+58dfb004-2490-4a4e-8628-e631e587779e,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2024-10-16,PROD_040,Apparel,7,467.21,3270.47
+e6ef40e4-306e-4150-a6cb-f837702c633f,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-04-07,PROD_028,Home Goods,5,343.51,1717.55
+6084af3b-ce5b-4edf-82e4-aa58698fb579,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-10-30,PROD_047,Home Goods,5,268.13,1340.65
+d4b1820b-5ec4-470f-a249-afc371e2b160,CUST_034,James Moore,james.moore306@aol.com,2025-05-07,PROD_039,Groceries,9,21.17,190.53
+a14d83ec-3834-465b-b748-6ebb410961b0,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2024-11-23,PROD_006,Home Goods,9,240.42,2163.78
+99babac2-e46b-43f2-851b-f6aebad0e49d,CUST_030,Joseph Jones,joseph.jones989@aol.com,2023-12-04,PROD_009,Electronics,9,206.84,1861.56
+3aa7b39c-c75a-46bc-80b4-03cd641a54bc,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2025-08-14,PROD_020,Electronics,6,84.8,508.8
+21ace16c-8e9a-4ff1-b56f-456c75ee67bf,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2025-05-24,PROD_001,Electronics,6,329.92,1979.52
+9cffb505-58cf-4677-bce1-79068a31c89e,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-09-23,PROD_008,Home Goods,5,485.72,2428.6
+de209572-36f3-45ab-b6a4-6f0f54fbb108,CUST_044,David Williams,david.williams849@aol.com,2024-05-24,PROD_023,Electronics,9,283.28,2549.52
+b8c43bc3-c73b-4f94-a522-c4c291fcb7f7,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-05-20,PROD_003,Groceries,8,358.8,2870.4
+c29d154d-4d22-4b93-aff5-33a514636173,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2023-11-27,PROD_004,Home Goods,7,38.88,272.16
+103fe040-699c-4f98-aef9-8a47e6397ece,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-01-08,PROD_025,Books,7,211.75,1482.25
+6e9fc114-7bef-4741-98a0-adbf931fc66e,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2025-03-16,PROD_047,Home Goods,6,62.6,375.6
+b90c7785-a447-4767-848e-8c599f6e7d18,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2023-10-22,PROD_038,Groceries,5,308.33,1541.65
+91ac1b94-2fcd-4ccc-a0ee-d1852d3898bc,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2025-08-05,PROD_015,Books,4,469.55,1878.2
+dcdd68e0-e9b8-49e2-ab66-fb7fd7a25b63,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2025-04-06,PROD_021,Home Goods,3,332.58,997.74
+f983a9b5-0a64-4f85-aa29-14c902012c69,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-10-17,PROD_035,Electronics,3,43.02,129.06
+9dbeaee0-e2d0-4f9b-958e-bcc35294a6f2,CUST_004,John Johnson,john.johnson267@gmail.com,2024-10-28,PROD_046,Apparel,6,180.56,1083.36
+e4f9d94f-c050-424b-a49b-28ff378cf9dc,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-10-21,PROD_014,Apparel,4,277.58,1110.32
+04c9c96b-6328-45b3-83ed-00cc4a3a3047,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2025-07-05,PROD_036,Electronics,6,204.59,1227.54
+22f757d7-7abf-42d4-b3ae-b7e4d3d1d5ee,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2024-09-08,PROD_012,Apparel,3,417.65,1252.95
+c9d13676-f784-4146-84a2-00389cd356aa,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-09-25,PROD_017,Apparel,4,408.26,1633.04
+a32bfd53-ab6c-44fc-8262-4e76596d7903,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-04-06,PROD_039,Electronics,9,307.86,2770.74
+b7b1e454-8ea7-4bb7-a429-768ae4c0614d,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-08-18,PROD_009,Electronics,5,189.86,949.3
+e60ad717-fe1d-4f87-a2ff-167c11ef77b1,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-06-16,PROD_035,Home Goods,7,131.39,919.73
+0cb870b9-8554-413a-bb26-90ae0e632529,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2025-07-27,PROD_013,Home Goods,2,57.41,114.82
+1981d804-66ee-4993-8fa0-66a52e51313e,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-07-06,PROD_015,Electronics,5,180.67,903.35
+715656d2-3267-4e84-9faf-df59a4437f0f,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2023-12-07,PROD_018,Groceries,9,209.52,1885.68
+c16d3ea1-0ef1-45bf-b102-cb276982f367,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-09-15,PROD_033,Apparel,3,339.53,1018.59
+7ed63f90-c6aa-4305-b60f-c78b0b4c03e9,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2025-04-22,PROD_006,Home Goods,9,330.79,2977.11
+b62fb629-31a2-4ceb-964f-e167fc2c7ed9,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2025-04-15,PROD_027,Apparel,6,39.7,238.2
+c5d92e47-d6bb-46a9-8456-e1080c0237d9,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-07-14,PROD_023,Books,4,200.65,802.6
+2c707aab-8664-438c-ae93-458b20f4154b,CUST_032,Karen Brown,karen.brown731@gmail.com,2023-09-02,PROD_027,Electronics,7,94.98,664.86
+129b1304-83a8-416a-a0cc-ed7107a121c1,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2025-06-27,PROD_034,Groceries,8,82.62,660.96
+dcd19399-c214-4289-a823-f4b6d5dccde3,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-09-27,PROD_046,Books,6,414.51,2487.06
+407911ee-93c2-4e4a-899f-4592343813fa,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2025-03-29,PROD_038,Books,5,25.75,128.75
+0654455f-bac0-451d-8437-ded015ef927d,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-05-04,PROD_014,Books,6,212.5,1275.0
+7d1db9ab-78fd-496d-8903-9e4144764b0a,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-09-17,PROD_036,Electronics,5,88.26,441.3
+adf21f5d-da07-4d31-a559-f27e52989363,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-08-09,PROD_008,Home Goods,8,440.27,3522.16
+6b222b04-f974-47d3-8448-17bc00b9f630,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-01-31,PROD_035,Electronics,1,280.74,280.74
+4c59e08e-cbfd-421a-97d0-7773fcafc7c8,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-04-10,PROD_019,Home Goods,7,119.53,836.71
+cd67cc0f-b4e9-4657-932c-c29c292b6b93,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-02-25,PROD_030,Books,2,253.7,507.4
+1bd955ab-e8e1-4d94-91de-baaf11b9b7dd,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2023-10-18,PROD_014,Books,9,367.09,3303.81
+fa2f050b-43f8-4056-a644-70cb4b557e37,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2025-03-14,PROD_020,Groceries,1,479.27,479.27
+4e3c496f-7c72-463e-ab94-fb596d992c73,CUST_042,David Martin,david.martin800@yahoo.com,2024-10-30,PROD_049,Home Goods,6,114.12,684.72
+ad44a530-86d8-4b36-b86e-fdcd9834b690,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2023-11-08,PROD_025,Books,9,443.66,3992.94
+caddb0f0-5ac6-4e6e-844f-ffab681e78c0,CUST_008,David Johnson,david.johnson984@outlook.com,2025-03-26,PROD_040,Apparel,1,467.48,467.48
+0ce156d3-b6a9-4e7b-a110-cd671104b833,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2025-05-03,PROD_024,Groceries,4,458.63,1834.52
+b65f3f0d-5bf3-4366-a0a9-097b553e80b2,CUST_042,David Martin,david.martin800@yahoo.com,2024-06-23,PROD_014,Electronics,4,319.53,1278.12
+84e1c3bd-f545-43af-ae75-d39c60c4a7b3,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2023-10-17,PROD_026,Groceries,9,316.76,2850.84
+688a1e53-6685-40db-9b0e-feaf33ee6f1b,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2023-10-29,PROD_038,Apparel,5,204.59,1022.95
+32c75aad-86f3-4397-81fb-66f5fdb0209e,CUST_032,Karen Brown,karen.brown731@gmail.com,2025-08-15,PROD_023,Home Goods,5,377.44,1887.2
+fb1dc18c-dec8-4cfc-af22-3d55d466b1f7,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2024-01-06,PROD_022,Electronics,6,267.99,1607.94
+5861a432-7131-4455-9bce-2cd205549409,CUST_047,John Williams,john.williams507@gmail.com,2023-11-12,PROD_048,Electronics,1,340.33,340.33
+081914da-7c8c-42b7-bb87-c6a5f1813031,CUST_044,David Williams,david.williams849@aol.com,2025-05-19,PROD_019,Home Goods,1,217.09,217.09
+1c048220-4006-4a06-b299-2820af76f3d4,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2024-09-06,PROD_046,Groceries,9,367.09,3303.81
+b101f5a4-0fe2-4512-bc2a-2870483adbea,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-09-01,PROD_003,Books,3,413.11,1239.33
+c30adb15-527e-4a9c-a577-779dd4833c34,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2024-05-15,PROD_042,Groceries,4,77.49,309.96
+e0c191f1-6a87-4a84-8142-85feafb9bf83,CUST_042,David Martin,david.martin800@yahoo.com,2024-11-27,PROD_019,Apparel,1,417.3,417.3
+6d3129f3-982b-4053-9ee9-4d2de5e677fe,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-08-31,PROD_009,Books,9,272.45,2452.05
+21419877-6166-4a62-ac2e-3aad5e04ed4e,CUST_008,David Johnson,david.johnson984@outlook.com,2025-05-01,PROD_028,Groceries,8,423.11,3384.88
+92520b3a-f34c-4dfc-8097-15ffab7babe2,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-01-09,PROD_020,Home Goods,2,218.49,436.98
+ee7ffe5f-e540-46e1-adff-1217e5bef102,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2025-07-09,PROD_045,Apparel,8,192.63,1541.04
+cd07d7a7-6fd6-4ae4-954b-e0627670bf1b,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2025-03-11,PROD_007,Apparel,7,457.96,3205.72
+f7221b98-a122-4f25-a8fb-327bb1898cbb,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2024-01-12,PROD_014,Apparel,6,129.33,775.98
+e92ab257-ecec-4d01-a8af-912b9a2c753d,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2024-10-09,PROD_009,Books,1,422.89,422.89
+0a5f13e6-4ac1-463b-82a6-c134e69d224f,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-12-19,PROD_019,Electronics,7,244.59,1712.13
+6e13ac9d-1e6a-4442-a967-7398014b9567,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2024-05-29,PROD_047,Books,7,259.48,1816.36
+b5b13e38-71ac-4464-a7bb-b7affc7fb4c0,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-10-23,PROD_014,Groceries,9,157.69,1419.21
+efc71faa-4955-4e92-ae63-caec4f9fae33,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2025-07-12,PROD_038,Electronics,1,288.66,288.66
+5ac5c151-7dc4-45d1-9df4-55d4266048df,CUST_044,David Williams,david.williams849@aol.com,2025-05-25,PROD_036,Groceries,2,165.98,331.96
+948ea1af-d7df-4ce3-9c2c-e38391c3c70d,CUST_042,David Martin,david.martin800@yahoo.com,2024-05-22,PROD_040,Electronics,9,24.44,219.96
+ee5560f7-124e-4633-a575-3ae65512e739,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-07-28,PROD_017,Books,9,139.64,1256.76
+552ce4a2-a60d-4bf3-b821-580ddbd8f81a,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2025-02-26,PROD_030,Apparel,6,8.16,48.96
+d2b2acff-ed26-473d-af99-67346358b1a5,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-08-06,PROD_009,Home Goods,6,489.29,2935.74
+0b456545-5add-4c4b-9e33-11cb733dfb4a,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2023-10-02,PROD_033,Apparel,4,483.04,1932.16
+be198e32-e8e8-4116-9848-a74864ed97c5,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-08-20,PROD_025,Books,4,200.6,802.4
+24bee69a-e2ed-42db-8055-08b3993b07c0,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2024-02-05,PROD_014,Electronics,5,365.54,1827.7
+b99ca0ec-f734-48b8-9b8d-3e687712d19a,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-03-29,PROD_011,Apparel,3,176.17,528.51
+171c701d-ce54-4976-b9c9-7d694c5654b5,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2025-04-21,PROD_035,Books,1,337.19,337.19
+ae94b07a-44b0-483b-a2b2-83005f8e639f,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-11-13,PROD_041,Groceries,1,403.69,403.69
+685f8d11-51c7-409c-8a99-c9d3b90456d1,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2023-08-22,PROD_014,Home Goods,7,473.64,3315.48
+0244eb58-f346-4082-bf7a-99849e458bb8,CUST_032,Karen Brown,karen.brown731@gmail.com,2025-01-09,PROD_030,Apparel,1,203.11,203.11
+5a75257f-87b7-4e2f-abbd-03ee180e2128,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2025-07-22,PROD_041,Electronics,1,392.73,392.73
+7dc6dd15-6283-4d50-ab53-7043f706040c,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-03-14,PROD_004,Groceries,3,136.63,409.89
+3db2ec09-ebe0-4171-893c-6680d2979219,CUST_032,Karen Brown,karen.brown731@gmail.com,2025-08-07,PROD_004,Books,4,495.21,1980.84
+2e567a3b-1d95-4503-8731-d0204ada83f2,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-08-04,PROD_028,Home Goods,4,17.76,71.04
+39eede3d-c810-43f3-b7cb-e184119f3c5b,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2023-11-23,PROD_008,Electronics,2,303.75,607.5
+7b28b39a-3043-4ab4-b1ab-1127a69ee8db,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2023-11-19,PROD_002,Books,1,331.46,331.46
+7f8f97ec-348e-4263-b126-e81ea16a14f7,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2023-10-05,PROD_041,Books,3,345.58,1036.74
+f8f745da-7a5b-4a69-995a-b0d8764d48f2,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2024-01-11,PROD_046,Apparel,4,64.59,258.36
+2b49b2c1-c882-4d87-8b9c-07f4cdda1abe,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2025-03-18,PROD_022,Apparel,3,469.57,1408.71
+c5a23122-d1d4-4e1c-a60b-469e325971c7,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2023-08-28,PROD_041,Electronics,8,94.69,757.52
+8f56b7f3-56d1-4e29-b37a-2e47190a045a,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2025-06-29,PROD_016,Books,1,313.26,313.26
+b7a70143-07cb-4b54-af18-e572e391f3ff,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-03-16,PROD_029,Apparel,2,115.22,230.44
+7ac2f281-63fe-4fe9-93d2-7b971d9d3219,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-10-28,PROD_049,Home Goods,7,157.07,1099.49
+3ff713d5-672c-4c3b-bb3e-1dcdbe3c11ef,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-01-15,PROD_048,Home Goods,4,275.5,1102.0
+388f3d66-e07b-4a8a-97b7-f3282604aa37,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2025-06-28,PROD_030,Books,8,211.51,1692.08
+1acf2ecd-312b-4572-b9fb-81c552b388d7,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2023-10-23,PROD_012,Apparel,3,84.31,252.93
+2989428b-d1b2-4e71-b20d-84bf9adddcf1,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-03-04,PROD_035,Electronics,6,89.61,537.66
+4503d78b-99a5-4512-80a8-f220618387e6,CUST_032,Karen Brown,karen.brown731@gmail.com,2023-12-14,PROD_011,Electronics,9,211.98,1907.82
+18bcb591-baa3-428a-b417-d4a31724c80e,CUST_036,Robert Martin,robert.martin381@outlook.com,2025-06-18,PROD_046,Electronics,1,379.86,379.86
+194fc755-68a6-4239-8365-eeb09f8b562f,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2025-03-03,PROD_050,Home Goods,1,449.49,449.49
+b299136c-843f-473c-b40f-f25507a165a5,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2025-01-27,PROD_021,Apparel,8,46.64,373.12
+d4f8482a-88b6-48ee-92b5-1b024253b3a7,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-03-24,PROD_021,Apparel,3,199.59,598.77
+2bf46120-fe13-4cf2-ae57-8be98398e34c,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2023-10-11,PROD_005,Home Goods,5,54.62,273.1
+2da30e7c-8715-4413-9bf7-c1781390373b,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-06-04,PROD_048,Electronics,1,13.21,13.21
+f7f2ba8e-ee80-4f70-a6ba-d27d6724e04d,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-12-18,PROD_020,Electronics,5,332.55,1662.75
+7f8815cc-6439-4bb2-9b0b-53b33f9768bc,CUST_023,Michael Moore,michael.moore356@yahoo.com,2024-01-14,PROD_037,Books,6,303.21,1819.26
+657efbb2-30a2-4855-9761-cc259c103cd6,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-09-30,PROD_003,Groceries,8,85.69,685.52
+2c3ee8c5-ba5a-49ec-a1f7-6845a5aed398,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-02-03,PROD_044,Apparel,3,120.74,362.22
+c7840d49-64fa-4c1a-9f83-b05fb51655f7,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2024-04-21,PROD_033,Apparel,3,16.74,50.22
+c35db079-d098-4605-b3ac-9bb179edf30a,CUST_041,William Miller,william.miller271@icloud.com,2025-05-01,PROD_009,Apparel,9,418.3,3764.7
+a3438348-81d1-4d3d-9b2a-a2c9e9509000,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2025-01-03,PROD_009,Groceries,4,487.47,1949.88
+71a6693d-e8ef-441d-a928-01d8a97c9162,CUST_032,Karen Brown,karen.brown731@gmail.com,2023-10-14,PROD_004,Books,4,72.05,288.2
+b1545cc5-796f-4be3-9242-d4af74d1a20f,CUST_044,David Williams,david.williams849@aol.com,2023-11-25,PROD_035,Groceries,7,119.58,837.06
+c77b0312-fd66-4a18-ac24-3a958251699f,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2023-10-26,PROD_017,Electronics,2,434.86,869.72
+61960e0f-3cc0-42ca-8b72-dfdb2d7c1115,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2023-10-25,PROD_034,Electronics,8,463.6,3708.8
+671a65b5-f1cb-4202-97c7-06e04ae267e3,CUST_047,John Williams,john.williams507@gmail.com,2024-06-11,PROD_024,Apparel,6,212.72,1276.32
+958d1a1b-195a-45c1-9e7d-94691f421f98,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2023-11-01,PROD_032,Home Goods,3,30.06,90.18
+be1913a8-3c76-4225-a6c8-fa4b1b17fa89,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-06-24,PROD_001,Apparel,9,24.5,220.5
+8c419e64-1aef-4171-8d55-79b0e248d176,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-05-19,PROD_008,Home Goods,5,289.11,1445.55
+0abcebc4-0ee7-416b-b522-c5217e0d94e8,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2025-03-10,PROD_045,Groceries,8,199.48,1595.84
+8e011bfc-50ca-4fb4-8369-cdda6cf38804,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-03-12,PROD_023,Electronics,7,19.18,134.26
+45bd4504-d89e-409d-ab6d-a8aa101dbd22,CUST_017,James Thomas,james.thomas681@icloud.com,2023-11-06,PROD_047,Home Goods,8,293.71,2349.68
+66197370-b871-4979-b514-e54c0269550e,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-01-05,PROD_040,Groceries,7,10.59,74.13
+d7082284-a693-49ba-a32c-1578881707e0,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-06-01,PROD_012,Electronics,3,394.75,1184.25
+c60c4550-9d48-4294-a3f2-8f240741dc0c,CUST_004,John Johnson,john.johnson267@gmail.com,2024-03-26,PROD_012,Home Goods,2,156.68,313.36
+c17de90e-bce4-4ba7-a7a3-fd10eab627b8,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-06-02,PROD_046,Apparel,7,24.93,174.51
+7f506b1e-2cff-4eea-9918-1355b9205aac,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-12-06,PROD_047,Apparel,3,296.23,888.69
+8426a125-43bb-4f9b-b6d0-a5a91f587fd8,CUST_008,David Johnson,david.johnson984@outlook.com,2024-10-01,PROD_015,Apparel,3,201.85,605.55
+f1670f50-1f84-4ba4-b89a-ec008aa7801e,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2024-11-27,PROD_041,Groceries,2,487.03,974.06
+ca157e99-af64-4b1c-82f7-0cf6858becea,CUST_034,James Moore,james.moore306@aol.com,2023-12-29,PROD_019,Apparel,4,274.38,1097.52
+f55cf1b9-8846-4435-b4e2-747013be4fa0,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2023-10-29,PROD_026,Books,8,141.24,1129.92
+f7b4a4e6-e20c-4c9a-96ca-9950ed37f6f7,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-02-10,PROD_029,Electronics,1,356.17,356.17
+b4289221-8b35-4af6-a9b0-e418289217d9,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-08-08,PROD_022,Groceries,1,139.39,139.39
+dae8a04f-51c3-4268-8ff1-d62236ef0476,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2023-11-19,PROD_040,Apparel,5,452.6,2263.0
+65a08ba2-95f3-4560-a9f2-864fd55550b2,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2025-03-03,PROD_021,Electronics,5,190.49,952.45
+b15573c0-633d-431d-91d2-0d096a8dd66a,CUST_008,David Johnson,david.johnson984@outlook.com,2024-05-15,PROD_038,Home Goods,1,277.18,277.18
+3ade409f-1a66-41c5-a000-4d51447217ab,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-11-10,PROD_020,Apparel,6,30.03,180.18
+11a6d819-baec-4f7b-865b-1d863830f849,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2023-09-17,PROD_029,Electronics,1,215.93,215.93
+b19f7d76-a722-4762-a863-61a6e6c12ad2,CUST_008,David Johnson,david.johnson984@outlook.com,2024-10-19,PROD_004,Books,5,417.02,2085.1
+b2cf755c-0799-4ccc-be7f-00de8391ae99,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-03-04,PROD_007,Home Goods,9,403.8,3634.2
+d05a2480-d9a0-456e-8257-6e2e1304a2c4,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-01-15,PROD_028,Books,5,116.04,580.2
+86197292-7348-4e40-b301-60cbae836f14,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-01-11,PROD_028,Electronics,6,116.91,701.46
+9df87a9e-2c9e-4545-9b5e-c1c8a0f74e73,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2025-05-07,PROD_004,Books,8,409.57,3276.56
+ad565aee-b8ed-4206-aa8a-816e527f413b,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-02-10,PROD_022,Electronics,1,465.55,465.55
+e869ce2f-4587-4dc1-82d7-7a703a818c5c,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2024-11-02,PROD_012,Electronics,2,52.2,104.4
+39a24c44-8de9-4ab3-ac5d-e9ae2ac270de,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2025-03-03,PROD_045,Books,9,227.78,2050.02
+4d951c4d-fa1d-4718-b12a-a28bf3e928d2,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2023-12-05,PROD_003,Electronics,3,172.04,516.12
+4f4997f0-b7ea-4a06-81fa-23ce3a8708b2,CUST_036,Robert Martin,robert.martin381@outlook.com,2025-07-12,PROD_022,Apparel,6,435.99,2615.94
+6543f8a9-552f-4b1b-a6bc-f9ab4d92feb4,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-08-29,PROD_044,Electronics,5,46.34,231.7
+c73c2d95-5a77-460e-a778-d7e409a683f1,CUST_041,William Miller,william.miller271@icloud.com,2023-10-11,PROD_002,Groceries,2,109.51,219.02
+da4f4b37-f337-4219-ab16-658c7f97dc4d,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2025-06-05,PROD_024,Electronics,7,377.47,2642.29
+bd3e37dc-b644-4796-8753-4373debc7ded,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2023-11-08,PROD_034,Groceries,4,30.39,121.56
+ddf08ed0-8b21-41d2-ab2f-cf139ec4b013,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-08-29,PROD_027,Electronics,1,248.81,248.81
+1024c3e4-3818-43f8-93d8-7502733886c9,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2025-06-08,PROD_041,Electronics,4,223.84,895.36
+62c50a72-e56b-4dcf-bc87-1e0ed6d08f69,CUST_004,John Johnson,john.johnson267@gmail.com,2024-06-18,PROD_001,Books,6,170.53,1023.18
+fbe7e862-d346-42c2-86b8-474b1d93a493,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2023-09-09,PROD_008,Apparel,7,200.31,1402.17
+1ee12d24-4f45-4a1a-80ae-c55462c9dc1e,CUST_042,David Martin,david.martin800@yahoo.com,2024-02-03,PROD_023,Apparel,7,267.32,1871.24
+653b4fe6-7015-4740-b434-dd6a7c8d7805,CUST_039,David Johnson,david.johnson430@yahoo.com,2023-11-14,PROD_038,Home Goods,7,84.88,594.16
+a7c421e3-0d9f-4762-ba28-a485f7829d31,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-03-18,PROD_006,Books,3,288.14,864.42
+27cb70ae-b0d5-4655-8639-fa14660928a7,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2024-06-15,PROD_022,Books,6,403.69,2422.14
+bb632d0f-9cf5-4035-bb29-28a2d1a45690,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-02-25,PROD_025,Apparel,8,381.28,3050.24
+43b939e9-b85e-4a8b-b18c-f4107149a061,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2025-03-10,PROD_018,Books,4,81.18,324.72
+8a6c4a0a-5a87-4c8f-b2da-914483ec3a72,CUST_032,Karen Brown,karen.brown731@gmail.com,2025-03-21,PROD_017,Apparel,8,78.88,631.04
+eebba169-9a49-471e-8d18-490a4f33b8b7,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-12-30,PROD_012,Books,2,137.75,275.5
+a72842a5-ddc0-46de-8948-69e4566a55b2,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2023-09-05,PROD_006,Electronics,9,183.73,1653.57
+0dd98786-830c-4fb9-98b8-ace7d32cd598,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-02-02,PROD_026,Apparel,9,207.19,1864.71
+9b51f1f2-4cd9-43fb-94d8-b52dfd801941,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2025-06-11,PROD_027,Apparel,8,341.45,2731.6
+6097d77e-54ad-49c3-bdff-d76a94db6c1a,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-08-01,PROD_008,Groceries,1,33.06,33.06
+4516a002-19af-4097-9546-fe5246580448,CUST_036,Robert Martin,robert.martin381@outlook.com,2025-06-20,PROD_019,Books,2,22.16,44.32
+e757cabe-c7a9-4444-b63a-98ee3ecd4fe1,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-12-01,PROD_042,Books,6,199.0,1194.0
+96d8f81c-05b0-433b-8df8-0606856a1bc4,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2024-09-09,PROD_001,Apparel,5,350.1,1750.5
+304658af-e004-491f-8e9a-4937b8f38682,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2025-04-09,PROD_029,Electronics,9,100.75,906.75
+a55915e3-9fad-42d3-aa5c-a690cada2bf6,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2023-08-21,PROD_045,Electronics,5,322.54,1612.7
+4f78d50a-32c3-4974-9644-e8076c783ee0,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2025-02-26,PROD_049,Electronics,2,133.61,267.22
+aace415f-03c1-4f83-87c3-2e9f78cbe01b,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2023-12-12,PROD_035,Books,4,443.61,1774.44
+a9b3d1c6-09e5-4aa8-9d1a-3977f1b2cf45,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-01-20,PROD_040,Groceries,9,448.37,4035.33
+c7ad861c-6f26-48a7-9afc-c49f177f4dc1,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-08-28,PROD_014,Apparel,1,152.16,152.16
+bbf810d8-42b1-4184-aeb3-6d29199cfe78,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2024-05-03,PROD_035,Home Goods,1,118.85,118.85
+5a517780-6187-43f7-9290-59cd53c05ee2,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-04-23,PROD_048,Groceries,7,208.6,1460.2
+d4d91f82-ead4-4e09-8695-bb84dbdb61ce,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2024-11-26,PROD_045,Home Goods,3,124.06,372.18
+016569b6-570b-44f0-9190-cfd71a709762,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2023-10-25,PROD_020,Groceries,2,337.83,675.66
+d0a2172d-0347-46d3-a5ae-1357371bc893,CUST_017,James Thomas,james.thomas681@icloud.com,2024-06-01,PROD_049,Electronics,9,413.9,3725.1
+19bbd506-65d2-43af-8441-4c14deb86c8c,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-02-16,PROD_013,Books,3,338.18,1014.54
+4c706578-eae4-4a33-833a-74700085dd1e,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-05-21,PROD_038,Home Goods,2,413.05,826.1
+a58b4cf5-b526-4ce6-8e14-214b4bc50dab,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-04-27,PROD_049,Groceries,8,201.51,1612.08
+7f714485-abe0-434e-8fce-57d8272c35c5,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-11-03,PROD_046,Books,6,82.38,494.28
+439cdc79-1377-4b77-a4ae-29556ecfe3e5,CUST_041,William Miller,william.miller271@icloud.com,2024-10-18,PROD_049,Home Goods,6,370.29,2221.74
+ce5b18cb-66c6-43e2-95c3-c93e2b85dcd1,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-10-10,PROD_008,Apparel,7,183.43,1284.01
+e66b4170-76fa-4177-802e-2048a4907855,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-01-21,PROD_043,Groceries,7,337.28,2360.96
+09ec5c27-0847-4b52-aaa1-ac3ae1bcfaf8,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2023-12-08,PROD_020,Apparel,6,138.97,833.82
+a26a9154-658a-4f2d-8356-8d336d061286,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-05-28,PROD_033,Electronics,4,45.21,180.84
+687f10ec-5555-4cac-a6d5-af8b8d3d4180,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2023-10-17,PROD_026,Apparel,9,496.33,4466.97
+c22ae787-6620-4853-a92c-a41daf586915,CUST_023,Michael Moore,michael.moore356@yahoo.com,2023-11-23,PROD_039,Apparel,6,82.32,493.92
+93c0e9e9-cb77-4d7e-9036-2f917ea4beb2,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2025-06-23,PROD_021,Groceries,4,494.27,1977.08
+374a9d37-8665-4d74-a0b8-83ae4d561de3,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2025-08-05,PROD_049,Electronics,3,488.75,1466.25
+efd5771d-a3fb-44e5-b831-db1c65f7d72f,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2023-10-30,PROD_042,Apparel,4,397.94,1591.76
+8306c14a-4c72-4c67-80b0-91c74670cd5f,CUST_034,James Moore,james.moore306@aol.com,2024-07-13,PROD_043,Books,3,331.41,994.23
+6764534f-ca77-45e3-8443-76c60bb4583b,CUST_030,Joseph Jones,joseph.jones989@aol.com,2023-11-08,PROD_041,Home Goods,2,291.01,582.02
+fd9a50d2-3d02-482b-9a08-bc59fe9e8d46,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-03-20,PROD_009,Apparel,5,433.72,2168.6
+df535eec-f236-4d64-ba82-1e22880ae922,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2023-10-31,PROD_024,Electronics,2,148.27,296.54
+74bacd98-8290-4125-9481-37e6662c6ff7,CUST_032,Karen Brown,karen.brown731@gmail.com,2024-02-22,PROD_037,Apparel,6,236.5,1419.0
+c30fe945-1f35-41c7-b1ea-9fa8ea3d958f,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-12-23,PROD_049,Home Goods,3,311.6,934.8
+c5e1a07e-f75e-4a67-84a9-5b963c82e504,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-11-11,PROD_041,Electronics,6,208.54,1251.24
+18b26602-3cc1-4e68-bc72-d3f12932c78c,CUST_008,David Johnson,david.johnson984@outlook.com,2024-09-03,PROD_017,Groceries,9,216.61,1949.49
+beb29d39-13b7-4b56-b28a-b10684f52675,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2023-11-29,PROD_024,Electronics,1,168.49,168.49
+fbe52051-a371-4d20-aa01-c6ea4ed468b7,CUST_008,David Johnson,david.johnson984@outlook.com,2025-05-05,PROD_021,Groceries,6,284.29,1705.74
+e1da7dee-bce7-4da0-bbb6-b9ca1a5607ee,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2023-11-26,PROD_039,Electronics,9,426.03,3834.27
+a35cde75-6c6e-493d-9f4d-f78d988bb310,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-03-18,PROD_041,Home Goods,4,104.76,419.04
+ca6a28b0-a5c1-4700-9ca5-72a97bb7b4ad,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-12-12,PROD_039,Home Goods,2,467.54,935.08
+c48a1509-28b3-4684-b442-f07fd97b258f,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-08-18,PROD_013,Electronics,4,346.1,1384.4
+d2256280-cd29-4b48-b202-8f9534627689,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-09-30,PROD_011,Apparel,1,412.52,412.52
+a0dd3721-97e1-4d08-b1a8-48ce83456747,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2023-11-23,PROD_046,Home Goods,3,280.31,840.93
+6945401d-d2f7-49af-bd1b-0cac5483b9f2,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-11-04,PROD_019,Groceries,9,390.86,3517.74
+c7d99dd1-bb79-41b2-806e-77c8e8af9e8a,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2025-03-21,PROD_011,Groceries,5,13.02,65.1
+4e2d2ae3-5f59-495a-bbe8-219591de03a6,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2025-05-25,PROD_013,Books,6,410.1,2460.6
+3dcbe9c8-4ed8-4bfa-9e16-de237941bc47,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-07-07,PROD_046,Groceries,3,24.87,74.61
+a6174821-38ac-4d53-bbb9-c6a7e6393424,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-05-18,PROD_045,Books,5,445.51,2227.55
+8e7ede74-72d4-4dda-b386-6c8666efe43d,CUST_044,David Williams,david.williams849@aol.com,2025-03-09,PROD_001,Electronics,8,496.02,3968.16
+da5a9fd2-2a5b-40e8-9771-cdbc73768f1a,CUST_042,David Martin,david.martin800@yahoo.com,2024-05-14,PROD_040,Electronics,6,150.56,903.36
+d1d68e59-60f7-4352-bb84-569247e2e972,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-02-14,PROD_044,Electronics,4,109.11,436.44
+da1edca9-e8ce-46ea-9085-f1988822b717,CUST_008,David Johnson,david.johnson984@outlook.com,2024-04-04,PROD_019,Apparel,2,383.85,767.7
+cac9114d-3940-4605-94d3-07065ff91341,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-03-26,PROD_012,Apparel,9,130.25,1172.25
+0617e76c-ff94-47f4-bd2b-1be1614b5f68,CUST_047,John Williams,john.williams507@gmail.com,2023-11-02,PROD_008,Books,1,433.45,433.45
+72603eb5-77ca-4921-a431-efa2fa44c928,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-04-23,PROD_008,Groceries,1,55.91,55.91
+4f2c9d62-033d-41b3-8677-9ec468ae8591,CUST_030,Joseph Jones,joseph.jones989@aol.com,2023-10-24,PROD_045,Groceries,4,67.35,269.4
+c84f7b9f-1c6f-42d6-8ee1-2b2d138baf68,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2025-04-25,PROD_012,Electronics,7,489.68,3427.76
+904d8b93-2ad1-4b42-b707-73dd7b1a788f,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2024-01-17,PROD_048,Home Goods,1,338.55,338.55
+2e315040-a102-4c93-92df-73c7e1614312,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-08-21,PROD_033,Apparel,9,424.21,3817.89
+f76dbc46-2740-41f4-b187-5421858b3430,CUST_017,James Thomas,james.thomas681@icloud.com,2024-09-10,PROD_045,Apparel,4,165.54,662.16
+b6fb1148-6974-450e-be2d-fc02693f7cbb,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2024-05-25,PROD_026,Electronics,3,339.86,1019.58
+d2362880-a037-4fb7-b4af-ea243e05885a,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2025-02-18,PROD_039,Apparel,1,299.15,299.15
+4e3174c0-fb6b-4bd0-af29-8aa3b376355c,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2023-09-15,PROD_028,Electronics,4,303.56,1214.24
+1aa0c30c-32c6-4e07-bdf6-180f7e36e2e1,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-07-06,PROD_005,Books,9,342.85,3085.65
+ac6d1fc0-4b63-4f25-9721-a0340e18ba8d,CUST_032,Karen Brown,karen.brown731@gmail.com,2023-10-21,PROD_008,Groceries,6,289.8,1738.8
+c64fce43-16e2-47b0-8226-cdbef4a1cdae,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2025-02-02,PROD_025,Home Goods,6,217.39,1304.34
+5ad53015-178a-4cc6-8d02-363c2d867fb9,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-05-08,PROD_027,Groceries,1,141.58,141.58
+964e4782-5a8e-46fb-902d-c50cbbba2ebf,CUST_008,David Johnson,david.johnson984@outlook.com,2024-10-10,PROD_046,Groceries,2,385.45,770.9
+54c312d7-a528-4f96-913a-c0a2d2194b85,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-11-28,PROD_023,Books,6,117.0,702.0
+d3d7fe1d-d6ea-4757-9c80-920cc1686587,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2024-06-24,PROD_030,Apparel,2,347.72,695.44
+2cc79882-b315-4b69-ae3a-2b70560fdb1a,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2024-07-07,PROD_045,Home Goods,3,120.5,361.5
+574db5c1-b012-4b64-a393-013e9fedca39,CUST_017,James Thomas,james.thomas681@icloud.com,2025-03-27,PROD_047,Apparel,4,314.54,1258.16
+a0eed347-021f-4252-9856-3772626846d1,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2024-09-09,PROD_023,Groceries,5,374.8,1874.0
+dee37737-0670-4e9b-9b1b-18c6e2f2a991,CUST_004,John Johnson,john.johnson267@gmail.com,2024-10-05,PROD_049,Electronics,9,113.26,1019.34
+4fae2d8e-ece4-4acf-886a-05a1fbf30233,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2025-05-08,PROD_047,Groceries,4,34.67,138.68
+86ad6ad3-339d-4461-a143-2e66864828a8,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2024-12-16,PROD_020,Apparel,9,69.83,628.47
+53b56b82-ea54-441d-9070-030f98a61639,CUST_042,David Martin,david.martin800@yahoo.com,2024-04-14,PROD_018,Groceries,3,304.97,914.91
+5a4d181e-9112-43fd-ba89-29a0e9a03926,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-08-05,PROD_018,Electronics,8,425.48,3403.84
+06cbd3d0-8ed9-4585-9490-cab21036c0f0,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-12-21,PROD_002,Books,1,27.27,27.27
+68c2712b-52fa-4c3b-bfa8-f0c8c3386af7,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-02-03,PROD_004,Apparel,9,368.4,3315.6
+48ea6e3b-2e88-4642-9326-15364578d026,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2025-07-06,PROD_030,Groceries,9,173.95,1565.55
+4dbbcfa5-3fb6-4212-bc06-15ec23a94c5e,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2023-10-09,PROD_033,Apparel,2,241.87,483.74
+080b2c27-6a49-4aa0-ade0-baa5c8246bd6,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-01-01,PROD_036,Books,4,464.79,1859.16
+8a564d0a-ef8e-4b6b-a3d4-e1cf28c32d5b,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-06-14,PROD_018,Groceries,8,169.33,1354.64
+932d9d1d-09c5-4ec6-9ded-6be068bad193,CUST_047,John Williams,john.williams507@gmail.com,2025-03-12,PROD_037,Groceries,7,235.34,1647.38
+43ef62f5-0281-4bd1-9a78-889aad52c26a,CUST_042,David Martin,david.martin800@yahoo.com,2025-01-13,PROD_019,Apparel,1,11.77,11.77
+cfe841d1-d79c-48bd-9505-2816b70e6ffe,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2023-10-17,PROD_047,Apparel,5,45.39,226.95
+815b36d9-6ff3-43d1-b22a-839269575e70,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-05-12,PROD_028,Electronics,7,133.0,931.0
+2a7359b1-ce0b-4847-ba83-dac940844f26,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2025-04-05,PROD_040,Books,4,18.79,75.16
+89884b52-d199-411b-9227-f864d754db69,CUST_047,John Williams,john.williams507@gmail.com,2025-06-11,PROD_020,Electronics,1,317.53,317.53
+440383c3-c02f-43e0-acf5-68be95de6d80,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2025-08-10,PROD_049,Groceries,9,216.07,1944.63
+e84c1823-0227-4867-bec0-ff3079b4228f,CUST_004,John Johnson,john.johnson267@gmail.com,2024-03-09,PROD_033,Apparel,5,276.33,1381.65
+284c7818-6b7b-42f5-ba71-215962bedec3,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2025-06-05,PROD_012,Groceries,2,91.45,182.9
+3dbe0d3f-c0d1-408f-a8ec-3d7ba383d004,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-07-14,PROD_015,Groceries,8,151.49,1211.92
+0d3c5cea-4faf-4e81-afcf-7568933eb3e8,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2024-07-08,PROD_041,Home Goods,2,333.59,667.18
+fb7c2ed9-7778-470b-91c4-73119baabefc,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2023-10-12,PROD_039,Home Goods,3,482.82,1448.46
+a1f06a50-1946-4370-9711-cd43869b0962,CUST_041,William Miller,william.miller271@icloud.com,2024-01-17,PROD_002,Groceries,1,29.96,29.96
+c9c3b8d9-d00c-4ca3-85d9-8aa3d34a10bb,CUST_010,John Thomas,john.thomas602@yahoo.com,2025-04-09,PROD_029,Apparel,2,445.74,891.48
+046084cd-9d24-48f7-843e-4987bcdf6022,CUST_008,David Johnson,david.johnson984@outlook.com,2024-05-08,PROD_041,Groceries,7,290.56,2033.92
+a389dec1-d9e2-413f-a33b-8bf0a1cb51d4,CUST_008,David Johnson,david.johnson984@outlook.com,2025-01-23,PROD_010,Home Goods,2,284.14,568.28
+f96bd714-e43b-47dc-a204-734fab867314,CUST_042,David Martin,david.martin800@yahoo.com,2024-11-24,PROD_002,Apparel,6,252.64,1515.84
+6ea3741f-19a7-41be-bff0-d40e1f82f701,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-02-27,PROD_011,Groceries,3,39.35,118.05
+798dd8e5-9d9e-4b23-8c12-8b12a11497a8,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2024-12-07,PROD_013,Books,4,49.49,197.96
+1d6cf249-c553-485b-ad9d-b2407e67546a,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-11-01,PROD_010,Books,8,302.45,2419.6
+3232be03-f01d-479c-8146-8fdcd100f07f,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2025-03-06,PROD_014,Groceries,3,173.77,521.31
+d66806e3-787b-4b4f-8f6b-dd021b4f6619,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2025-05-14,PROD_018,Apparel,6,459.05,2754.3
+70478ac7-ff11-4249-9d4a-7aef0afa80f0,CUST_042,David Martin,david.martin800@yahoo.com,2025-04-29,PROD_009,Groceries,1,206.26,206.26
+ec33ed66-3752-47cf-a0b8-0b231e1092c2,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-09-15,PROD_039,Groceries,7,75.92,531.44
+861b0d56-9039-4730-ab27-b3e7c8beff86,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2024-12-22,PROD_028,Home Goods,8,358.79,2870.32
+bbdff76d-7437-4171-93fd-751ef89fab58,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-08-01,PROD_003,Books,8,150.21,1201.68
+a7d420b4-b16c-48ba-ae13-75a6b16a198c,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-06-07,PROD_020,Home Goods,3,265.11,795.33
+dbd9db2b-0e8e-4e2e-8cf4-1c14d778bb3b,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-04-21,PROD_006,Home Goods,1,350.43,350.43
+dc097127-ca85-4cc4-8d3c-6378c8f495e8,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2025-07-23,PROD_027,Groceries,9,450.63,4055.67
+1b454eb0-babd-4810-b4cd-a7288420785d,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2023-11-03,PROD_002,Home Goods,6,397.13,2382.78
+050404df-1773-4e93-a13f-5e5c0a116f51,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2025-04-22,PROD_029,Books,9,339.8,3058.2
+4a15bcb4-135d-48dd-a4dd-a7be9b053a2c,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2024-04-22,PROD_038,Home Goods,7,341.42,2389.94
+73bdc185-13fb-41a0-bd22-97639d88360e,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-07-21,PROD_003,Books,1,473.23,473.23
+508c3240-2490-4586-849d-673b1a886ec7,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-02-27,PROD_016,Home Goods,1,151.43,151.43
+b2b9a39e-d23d-4bd2-8673-a2e8de58daca,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2025-05-30,PROD_030,Books,6,5.55,33.3
+f5f2fe44-3db4-4f3c-9826-887e76f1843b,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-01-15,PROD_040,Home Goods,5,139.62,698.1
+70e5d209-69c2-4ff2-89b2-d2790f421a86,CUST_047,John Williams,john.williams507@gmail.com,2025-02-25,PROD_002,Home Goods,9,112.86,1015.74
+e9a70919-61a1-49ca-9390-68bb3cd76184,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2025-08-05,PROD_017,Apparel,2,332.61,665.22
+4acd3ee6-8ca4-4006-84b4-b4e4ee815383,CUST_017,James Thomas,james.thomas681@icloud.com,2025-04-11,PROD_041,Books,8,318.69,2549.52
+7fcbcce1-ffd4-4162-819c-1576da67a918,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2023-12-18,PROD_012,Books,5,298.76,1493.8
+0c926229-7ea1-44ca-8fe2-3a411fe0f2ef,CUST_041,William Miller,william.miller271@icloud.com,2025-05-17,PROD_035,Books,2,13.04,26.08
+94b04c6a-dcbf-43b9-b384-6d5fe1de45be,CUST_032,Karen Brown,karen.brown731@gmail.com,2023-11-03,PROD_043,Electronics,6,365.75,2194.5
+a7c84c53-c293-4783-ac03-378c24bc67bc,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2024-02-21,PROD_001,Home Goods,8,165.15,1321.2
+d4cac0f7-055a-468a-82ed-65dafc5004ee,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-03-03,PROD_045,Books,4,334.2,1336.8
+fbed87ce-223c-420b-98bf-cfdcf97c6928,CUST_041,William Miller,william.miller271@icloud.com,2023-10-29,PROD_015,Electronics,2,280.51,561.02
+03374fd1-fedb-42bf-9f99-ee228c82dca0,CUST_008,David Johnson,david.johnson984@outlook.com,2024-05-27,PROD_026,Apparel,5,174.65,873.25
+c2d8833f-b03b-426a-9abc-52569463d3ff,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2024-07-23,PROD_037,Books,2,71.62,143.24
+a36134eb-2681-4682-94bd-fa335bbf2b6b,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2023-10-15,PROD_021,Books,2,51.74,103.48
+62e2ed89-f63a-4b64-b39b-19d6d156fa31,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2025-07-05,PROD_049,Electronics,6,416.6,2499.6
+69f526ea-128a-4068-a848-443363074b67,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-12-06,PROD_031,Home Goods,9,459.61,4136.49
+920bb37a-b9ea-45cf-b2db-a04de40511f0,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-04-09,PROD_025,Apparel,4,326.65,1306.6
+4a90c8e0-34ec-423f-a4bb-52a09cc5a1ac,CUST_039,David Johnson,david.johnson430@yahoo.com,2025-06-18,PROD_023,Books,6,56.2,337.2
+a48e9186-ac47-47b2-959e-e728c38978c4,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2023-10-24,PROD_024,Home Goods,7,204.0,1428.0
+645a3ca0-4162-4e3e-8fae-11b8374cc262,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-05-07,PROD_038,Apparel,6,365.82,2194.92
+349cebd3-758e-40a6-ac92-249b38ba7863,CUST_042,David Martin,david.martin800@yahoo.com,2024-11-03,PROD_028,Groceries,8,391.01,3128.08
+2d347c0b-ff42-4d37-8cad-60ae671849e4,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-03-18,PROD_021,Groceries,4,63.52,254.08
+1ededa92-328c-423a-af31-99839d0da092,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2024-05-07,PROD_043,Apparel,1,5.02,5.02
+6861d0c1-5aab-4529-b602-3a32d7455a86,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-09-06,PROD_018,Electronics,7,357.51,2502.57
+4e4162d7-17c9-43d8-949d-553ae2ff17c7,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2023-11-14,PROD_036,Apparel,3,181.52,544.56
+7db1e67c-ac75-4225-b70f-24a3d07bf60d,CUST_041,William Miller,william.miller271@icloud.com,2024-07-31,PROD_035,Apparel,6,130.97,785.82
+de8ccbee-76ff-4aab-8f77-fdb968f95c15,CUST_008,David Johnson,david.johnson984@outlook.com,2023-09-27,PROD_045,Electronics,2,11.38,22.76
+2a2a446f-970f-4fe1-b01c-a5b6a0981a97,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-12-07,PROD_009,Electronics,9,272.45,2452.05
+89eb430d-e755-45ee-ba4f-2ce615d0a06c,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2025-06-22,PROD_038,Home Goods,1,426.32,426.32
+8b5462cb-6a2f-49c6-a2b5-82b58e6e1a26,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2024-05-11,PROD_030,Home Goods,6,479.03,2874.18
+91a00dc3-3dbb-4bcc-8f11-1c3823baf154,CUST_034,James Moore,james.moore306@aol.com,2024-05-17,PROD_044,Electronics,6,285.04,1710.24
+87ad777d-84f6-44f9-a366-5a57dff5434c,CUST_036,Robert Martin,robert.martin381@outlook.com,2025-05-26,PROD_034,Groceries,5,259.66,1298.3
+11387175-670f-4dc1-92d9-27fea0133ff2,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2025-05-10,PROD_032,Groceries,5,47.1,235.5
+9e9eb90c-b9da-4b0d-8348-d47dab462975,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-03-21,PROD_003,Apparel,1,276.69,276.69
+15a03009-4ff4-4923-9b3d-42224591e9bb,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-09-22,PROD_003,Books,5,193.09,965.45
+3d31a795-afac-4243-8c45-4508f2cefc72,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2025-03-14,PROD_028,Apparel,2,305.53,611.06
+bfba0ef0-2454-468c-8a57-4a420a1377b2,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2025-02-08,PROD_044,Apparel,7,197.42,1381.94
+effa80af-5cc6-48d1-8da0-69b440f2f4d4,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-04-10,PROD_015,Books,3,123.95,371.85
+de2d4f13-b2bf-4ea4-a76a-a522aa7952d5,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-11-27,PROD_041,Electronics,4,52.01,208.04
+51117ef4-9c51-4d31-885c-f26058c29ede,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2025-05-29,PROD_023,Groceries,3,160.88,482.64
+fa3f52c1-4a1c-4abd-94f7-ad0658389e84,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-07-13,PROD_040,Apparel,3,52.84,158.52
+6aedeb67-0b1b-4335-99c7-14f8f7c8778f,CUST_008,David Johnson,david.johnson984@outlook.com,2023-12-17,PROD_011,Books,4,92.56,370.24
+fb8397c2-ec1b-4be7-82e1-82e15a9b4325,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-11-30,PROD_048,Home Goods,5,493.73,2468.65
+1c812151-6f84-4f29-8cd2-43afec0f6498,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2023-12-11,PROD_032,Apparel,1,224.83,224.83
+5d3d7e49-3202-4c0c-91ae-c3f0bfcb3e76,CUST_032,Karen Brown,karen.brown731@gmail.com,2024-02-12,PROD_036,Groceries,4,268.28,1073.12
+8767809e-e2fb-4a21-8733-18b0f35e9550,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-05-08,PROD_033,Electronics,8,437.44,3499.52
+aaa6d731-cb0d-4302-b3dc-4cdd28d83902,CUST_044,David Williams,david.williams849@aol.com,2024-08-23,PROD_024,Apparel,7,497.81,3484.67
+6c825352-1b58-4df2-a3ce-8d71450a9aa8,CUST_047,John Williams,john.williams507@gmail.com,2024-08-02,PROD_039,Apparel,9,293.44,2640.96
+e961c130-336b-41ce-a80c-51f648a99ecd,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-01-08,PROD_034,Books,5,407.17,2035.85
+d3449cb2-820a-45db-8258-a5805de6e2bc,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-06-23,PROD_028,Home Goods,4,166.84,667.36
+74965ceb-88cb-488c-95cb-483c7f672e1d,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2025-04-15,PROD_037,Home Goods,8,156.34,1250.72
+faacc4c3-4248-4b6b-b136-57f65be90486,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-06-21,PROD_007,Electronics,9,204.34,1839.06
+55cf69b3-0ee4-4083-b97f-a8e6c94fe558,CUST_008,David Johnson,david.johnson984@outlook.com,2024-12-29,PROD_004,Groceries,7,337.89,2365.23
+e02f4893-43c0-45f0-b164-2a449dc8f49f,CUST_030,Joseph Jones,joseph.jones989@aol.com,2023-09-27,PROD_037,Electronics,7,342.68,2398.76
+37851644-c2f5-40ce-9996-5d981b294ccf,CUST_032,Karen Brown,karen.brown731@gmail.com,2025-06-15,PROD_001,Apparel,5,161.04,805.2
+216ef398-ef9c-49aa-9ca3-73436969f9d8,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2024-04-19,PROD_001,Apparel,4,70.94,283.76
+76587656-8f15-4579-9777-5bb34e14f7d5,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2023-11-28,PROD_047,Home Goods,1,318.04,318.04
+3f7d8dc5-dc68-4c4b-8f24-7b5dae642a28,CUST_047,John Williams,john.williams507@gmail.com,2023-09-14,PROD_020,Groceries,7,68.52,479.64
+3cb1cd39-533a-4300-a3ca-a4b051bb3ab7,CUST_047,John Williams,john.williams507@gmail.com,2024-01-21,PROD_019,Books,1,291.35,291.35
+5184b55d-11cc-43b0-aa22-5e1c3b39009f,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-04-21,PROD_029,Groceries,1,348.24,348.24
+c5b96a3a-897b-4779-8bdc-38eb0ae95497,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-03-16,PROD_010,Apparel,5,351.8,1759.0
+732cee1e-0ec3-4949-a70c-6f577a8b0266,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2025-03-15,PROD_018,Books,9,377.97,3401.73
+20087fe7-ea7a-4b30-a595-614f7a72304a,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2025-05-17,PROD_028,Groceries,6,437.07,2622.42
+0bfaf8d0-3420-42f8-8a9c-0f2eac54bcd5,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-03-09,PROD_035,Groceries,3,252.48,757.44
+d4371f3b-bb43-4dc3-bf6d-e9981b5b1009,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-05-19,PROD_043,Books,3,366.47,1099.41
+9c49a2d1-e302-4989-abdb-8d5e15a928c0,CUST_044,David Williams,david.williams849@aol.com,2023-12-28,PROD_047,Apparel,7,311.49,2180.43
+fa21149a-1d5a-475c-a02d-77f0fdfa3758,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2023-11-11,PROD_031,Groceries,6,97.39,584.34
+4317e9f4-815d-452a-b8d6-f20cf7b9497e,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-03-25,PROD_027,Books,9,17.72,159.48
+f0bd0095-09ce-41c3-9b81-e30b693d2dcb,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2025-02-15,PROD_011,Apparel,6,145.85,875.1
+8279c06e-9063-4082-ad88-4f6c99968e2b,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2024-07-27,PROD_049,Books,5,224.3,1121.5
+57ad4159-4a8e-4673-8d32-1389bacd9aaf,CUST_017,James Thomas,james.thomas681@icloud.com,2024-01-21,PROD_049,Books,7,310.47,2173.29
+60168432-5774-4219-a823-175193f39dfb,CUST_041,William Miller,william.miller271@icloud.com,2024-07-08,PROD_038,Groceries,1,425.73,425.73
+4b649ab8-197f-46f5-a183-9346d8a34bbd,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-12-14,PROD_005,Apparel,7,102.14,714.98
+c7b74f31-645c-4ac3-8356-76f0f8d4c190,CUST_017,James Thomas,james.thomas681@icloud.com,2024-01-04,PROD_008,Groceries,3,67.15,201.45
+50c6da9d-a991-4c9d-bf0f-8b78be3ac6f8,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2023-10-26,PROD_034,Electronics,9,481.92,4337.28
+46ebd68a-6e27-4d6e-9890-ae419a32d0c7,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2023-11-06,PROD_048,Electronics,6,58.48,350.88
+44379db1-3840-4ff1-96e6-9a801b450d50,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-05-03,PROD_012,Apparel,9,241.85,2176.65
+37866a27-d38e-4ab5-b756-2abf568658f3,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-06-20,PROD_038,Books,5,294.85,1474.25
+ad0bda73-c131-4859-bd2a-d22f90d4462d,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2025-06-13,PROD_001,Groceries,7,272.98,1910.86
+ab16b3d0-dcbb-4ac5-97d4-4b8fffc6aef8,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2025-08-04,PROD_031,Groceries,4,47.59,190.36
+0eb352d4-7696-4d77-9f6a-e939c7e03f76,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2025-01-16,PROD_004,Apparel,7,33.23,232.61
+705d1da7-0fd3-42a3-b7af-06afc473d0c8,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-12-18,PROD_049,Apparel,1,57.21,57.21
+f6bb0b47-7386-4e7c-ae55-74c3b5cf179c,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-04-11,PROD_045,Electronics,7,294.87,2064.09
+18e124f0-c9c4-4272-a2ba-d4196fa00dcd,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2025-01-16,PROD_050,Home Goods,8,274.45,2195.6
+63f2e65d-14e0-438c-9076-947b17a76cc2,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2023-09-24,PROD_005,Apparel,5,120.7,603.5
+d0ea4cdc-5dd6-43cc-8329-397de58d685b,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-09-13,PROD_030,Home Goods,2,320.7,641.4
+fc378a05-26e7-49dc-a314-80831f4549ec,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2025-02-25,PROD_024,Apparel,5,410.93,2054.65
+9bdca42b-19f9-41cf-a15e-48fbd06a75c8,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-10-15,PROD_003,Books,6,25.58,153.48
+f4eb5f01-fb33-4423-bbff-6dddd30a48a1,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2025-03-06,PROD_011,Books,2,251.57,503.14
+194950c9-6e24-4846-b347-32d429e69081,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-05-09,PROD_045,Electronics,6,346.21,2077.26
+062de9e5-c389-4131-9183-ba4fa8bff83b,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-04-07,PROD_004,Electronics,6,129.89,779.34
+22de45ad-f8a1-4b02-b014-716eca18a00c,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2023-09-17,PROD_026,Home Goods,1,157.35,157.35
+359e17a0-de8f-4995-be76-9a052fe3ac5a,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-07-18,PROD_027,Apparel,1,308.75,308.75
+7e2a195a-bb5f-481f-b491-7900c9181265,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2023-09-14,PROD_046,Groceries,3,449.48,1348.44
+258d055d-b1a6-4404-943b-fa38c94f8a8d,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-10-13,PROD_043,Electronics,3,405.91,1217.73
+aa93f197-2e60-475a-a115-b4395da8fcac,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2025-02-15,PROD_027,Groceries,4,293.65,1174.6
+8f8980a9-3667-4d75-99ae-2d83b03c5c17,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2023-11-27,PROD_042,Groceries,2,366.46,732.92
+60a85d96-5c41-4170-ae04-397daf85f625,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-03-25,PROD_050,Apparel,9,185.59,1670.31
+fa164451-153a-4f62-af37-c5bd1bbbd6d6,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2023-09-09,PROD_006,Home Goods,7,322.28,2255.96
+6109e63a-3ba5-4042-b26b-b352338a55b2,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-02-18,PROD_015,Apparel,7,235.76,1650.32
+7bf87abc-7175-4a57-91ff-20a02340e120,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-01-31,PROD_030,Electronics,6,99.02,594.12
+7dd8d1d9-8502-4c54-8639-19a88abfa768,CUST_004,John Johnson,john.johnson267@gmail.com,2023-12-02,PROD_042,Groceries,3,352.36,1057.08
+f9431c53-0305-4053-85c4-e36b0552ac35,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-01-01,PROD_037,Apparel,6,280.45,1682.7
+4b43bb0e-646f-4b23-95f7-a664b8a2b20b,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2025-01-02,PROD_037,Apparel,8,182.52,1460.16
+159c5992-abed-4e48-b55e-f5759c3ef751,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-06-07,PROD_042,Apparel,8,456.11,3648.88
+15f4ffb2-037b-477e-aa5d-1f52ceadd8de,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2024-06-21,PROD_037,Electronics,9,15.36,138.24
+527cf840-6a1c-4a0a-8aaa-adbc18e1aa22,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-02-10,PROD_035,Home Goods,1,161.31,161.31
+c6ab21da-1d50-4379-9d31-40ca9b6c0740,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2025-07-27,PROD_023,Apparel,1,33.16,33.16
+98a44e1a-14ce-4bb4-9bd3-1b6ec65fd30e,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-02-10,PROD_006,Electronics,3,384.43,1153.29
+efb8c618-d567-4f72-afcf-ade92bb588db,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-07-16,PROD_004,Groceries,3,352.54,1057.62
+f8e3bbdc-e9c9-4207-8f81-2eed887648dc,CUST_004,John Johnson,john.johnson267@gmail.com,2023-12-01,PROD_018,Books,8,169.02,1352.16
+794a93bd-666a-4ffe-af85-c51d3bf28808,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2025-05-04,PROD_009,Electronics,1,339.45,339.45
+99c42fd0-c860-41eb-b425-195a874059e2,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2025-02-06,PROD_049,Books,2,200.99,401.98
+820c080e-b8bb-4e86-89e7-af4cd29e2604,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2025-07-31,PROD_029,Apparel,2,379.35,758.7
+9b7556e9-53b7-4b87-b725-e981b329f4d3,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2025-04-19,PROD_013,Apparel,3,229.82,689.46
+e336e0d7-fbd5-46a9-bf63-caa3fadd4a70,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-07-20,PROD_047,Electronics,6,209.08,1254.48
+82f4350c-5c00-4448-8108-c6f1af7ac709,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-06-18,PROD_017,Books,1,467.69,467.69
+5beed9e2-4119-48a1-b24e-7180d1e38656,CUST_008,David Johnson,david.johnson984@outlook.com,2025-04-10,PROD_045,Apparel,2,129.19,258.38
+1dce264c-3d33-42df-9b6c-eaa31dbff6c3,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2025-04-09,PROD_032,Groceries,1,64.62,64.62
+8cb0fccf-f145-4624-b1a8-798006235c8e,CUST_044,David Williams,david.williams849@aol.com,2024-01-23,PROD_048,Home Goods,5,294.35,1471.75
+28fb48c4-9b67-4ec1-94c6-cd5b3914170e,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-02-04,PROD_022,Home Goods,7,484.81,3393.67
+5f6d59f9-1eb7-4473-83c9-f7769d4cb184,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2025-07-19,PROD_004,Apparel,8,192.03,1536.24
+96e14b71-ea9e-4c07-9bda-ac28a1ca5b22,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2025-05-12,PROD_005,Books,1,35.71,35.71
+353d87ae-02ba-4a3e-b67e-6a65e59ddb86,CUST_034,James Moore,james.moore306@aol.com,2025-08-07,PROD_037,Apparel,7,172.96,1210.72
+9ce18933-af0a-400f-b8a1-e555562e96df,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-12-18,PROD_041,Books,5,255.44,1277.2
+846629f9-6fd2-494a-b0b6-a4b4b19f878a,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-12-28,PROD_049,Groceries,1,85.15,85.15
+0f5b4ac1-c73b-4dc6-aaea-d54327a2532e,CUST_008,David Johnson,david.johnson984@outlook.com,2024-11-06,PROD_013,Books,3,330.76,992.28
+89b0ef0f-50e3-43b2-95cc-ed4e7c24da79,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2023-09-02,PROD_034,Apparel,7,498.89,3492.23
+8dc2f4d4-41ba-4bb8-bf20-865d32e35db1,CUST_034,James Moore,james.moore306@aol.com,2023-08-22,PROD_045,Groceries,1,228.61,228.61
+232447b4-c25a-47d7-9811-efad0f3f1e5b,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2025-01-29,PROD_022,Electronics,7,180.59,1264.13
+8e69cbc1-2f34-4a52-936a-fd056b674cfe,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2025-05-30,PROD_023,Home Goods,5,203.35,1016.75
+f3f05d16-627e-4e3a-9594-ec4638ca20a4,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2025-02-25,PROD_003,Apparel,1,62.0,62.0
+830b5dc1-0187-4fea-a5f6-bd2b8a3b3120,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-05-07,PROD_042,Apparel,1,442.22,442.22
+6b1f877c-22ca-40b3-a33e-3fb2e36b301c,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-01-14,PROD_034,Apparel,1,210.34,210.34
+683c7292-2e14-4163-9edd-ff622bde2e08,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-06-27,PROD_032,Groceries,9,196.7,1770.3
+eede30ec-4348-455c-a771-59c7fcb0ac62,CUST_041,William Miller,william.miller271@icloud.com,2024-05-25,PROD_045,Electronics,3,331.55,994.65
+49aaecb4-4199-48ca-94d1-3ee45fecddd9,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2025-05-22,PROD_049,Books,5,223.81,1119.05
+18f5b054-95ce-45f9-8a55-b0b4a91a77de,CUST_034,James Moore,james.moore306@aol.com,2025-05-08,PROD_021,Electronics,9,325.88,2932.92
+ed8b3ad8-9298-45c7-b25c-0a872034da37,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2025-08-09,PROD_046,Groceries,6,35.42,212.52
+04be2c1f-32af-47e8-9ebd-f39ef0d6cbca,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-01-29,PROD_044,Apparel,9,407.79,3670.11
+337c6e78-49d9-41bf-9b54-9a44680c21df,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-03-30,PROD_021,Home Goods,8,470.55,3764.4
+2f017d0d-7155-4f07-9145-ab1691843ef2,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2025-05-22,PROD_044,Apparel,8,326.14,2609.12
+0593b1fb-cf10-4d2b-b989-d55fcd41e383,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2025-07-05,PROD_011,Books,1,477.51,477.51
+67ef12bc-894f-4a15-8328-ae85b832c9f9,CUST_042,David Martin,david.martin800@yahoo.com,2024-07-28,PROD_039,Home Goods,9,79.96,719.64
+881bd64a-5831-41e3-af13-90cdd0f1dd5f,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2023-12-05,PROD_004,Apparel,6,241.32,1447.92
+1fa3975b-4106-49ae-826c-d942d09e9552,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2024-06-08,PROD_001,Home Goods,9,302.89,2726.01
+b1380609-3567-44d4-ae7a-e832e1611e03,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2024-07-05,PROD_028,Electronics,3,292.96,878.88
+9e7fb7e4-0394-4cef-b1c1-9877708b99dc,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-04-21,PROD_024,Groceries,3,203.72,611.16
+44c6f144-99b1-4868-8f2c-f5eb3e22cc1d,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-10-23,PROD_035,Apparel,6,172.35,1034.1
+80838f5d-49a5-472a-b632-d014a17cd739,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-07-31,PROD_013,Books,9,67.78,610.02
+02eb9b5f-d178-45ea-974e-859c235d3add,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2023-11-11,PROD_047,Electronics,7,198.91,1392.37
+b2478b84-8fd2-48a5-8ee3-e51d100921d4,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2025-03-22,PROD_034,Apparel,3,85.52,256.56
+89f7c922-9881-4eca-8f1e-7ad020c9b737,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-11-13,PROD_011,Electronics,3,368.51,1105.53
+b60de5f7-7289-405f-aa2d-dd850af7bc3f,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-12-28,PROD_036,Books,2,108.37,216.74
+fe86fa09-8a47-446e-8697-70d590b657f3,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-08-16,PROD_017,Apparel,9,33.99,305.91
+fc4f2828-37d2-4651-ad58-934878618024,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2025-01-01,PROD_035,Books,3,278.42,835.26
+bc62dcb0-6fbd-480f-a123-1c04cc232a3e,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-11-05,PROD_018,Home Goods,5,299.64,1498.2
+30ee4de7-07df-450c-a552-98b69d8a001d,CUST_042,David Martin,david.martin800@yahoo.com,2024-06-07,PROD_040,Books,9,436.6,3929.4
+e9e74f35-c3a9-4c5c-bdd0-e48fd1ede32b,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-07-14,PROD_022,Home Goods,8,290.61,2324.88
+c28489ee-82fb-41e8-bb29-42c5229294b1,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-01-18,PROD_024,Apparel,2,176.01,352.02
+b5569d0e-1cd2-4845-aa0f-6c02327f830f,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2024-07-22,PROD_019,Home Goods,3,402.49,1207.47
+876332f2-93f7-4677-ad9e-ccfeded0d9d0,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-04-05,PROD_037,Apparel,2,272.44,544.88
+8d95aa72-6a3a-4828-b8ef-af8135ae44b1,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-02-24,PROD_039,Apparel,8,44.24,353.92
+88593665-e3e5-4921-a5dc-98d43e0349d7,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-02-01,PROD_021,Groceries,6,285.1,1710.6
+9414c144-56b6-4b64-a48e-61a0f1dd9601,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-04-13,PROD_008,Apparel,6,454.47,2726.82
+3479c439-6c33-40fc-9d95-bcb168951602,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-06-01,PROD_028,Home Goods,9,201.17,1810.53
+7a3f33ff-0154-4a1e-ab5f-60c7e2542ad4,CUST_023,Michael Moore,michael.moore356@yahoo.com,2024-11-29,PROD_005,Groceries,8,151.68,1213.44
+d13ee299-4f89-44df-8244-30a6f5c386e3,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-09-01,PROD_017,Groceries,4,76.02,304.08
+dccf7fc6-c32a-42c3-a5cd-d9e2ca4b9073,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-08-30,PROD_037,Apparel,4,79.97,319.88
+548f7cfb-e250-4d2a-8ad4-b79c8b57e924,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2024-03-15,PROD_036,Books,9,219.22,1972.98
+d1d27956-be03-4fd0-9431-c55860d17f62,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2024-10-01,PROD_019,Books,1,299.86,299.86
+226e796c-e2b6-49ac-ad6e-d3c04e5d2537,CUST_044,David Williams,david.williams849@aol.com,2025-04-01,PROD_027,Groceries,2,44.9,89.8
+c81966db-b1a6-42d4-9509-315b93b612eb,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-02-14,PROD_034,Apparel,2,470.09,940.18
+7eaeff74-1cb1-4133-ab67-2dd82648c460,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2023-12-03,PROD_011,Books,6,378.79,2272.74
+dc8e1e8e-d3c9-4de4-8390-4d1f92f6c04f,CUST_041,William Miller,william.miller271@icloud.com,2024-08-14,PROD_045,Apparel,4,295.38,1181.52
+93256b3f-46ee-4433-b766-e34d88d15692,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2025-01-09,PROD_047,Apparel,3,415.08,1245.24
+aefaac28-9e87-4cee-9ce9-9908b0d5999d,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-09-14,PROD_012,Groceries,3,44.69,134.07
+fb77de32-d30d-41a3-890f-71cb0953ec08,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2025-01-06,PROD_021,Groceries,3,241.04,723.12
+0cf1ee72-1499-4f1d-b10b-1bd02dc99107,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2023-11-08,PROD_011,Electronics,6,316.9,1901.4
+7dd75703-5ff1-4b21-925b-2d8c527e384c,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-08-22,PROD_039,Books,8,415.18,3321.44
+69b2d4fc-57f1-40c4-846f-8c7fcd4f49e0,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-09-22,PROD_028,Books,7,392.82,2749.74
+8de1f7e0-d813-41af-a129-5240d20eaac6,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2024-05-11,PROD_005,Books,4,142.15,568.6
+5d761fe9-e858-4ae7-b2b4-bb5045ca7dd2,CUST_042,David Martin,david.martin800@yahoo.com,2024-02-03,PROD_017,Home Goods,4,470.74,1882.96
+12da55ea-82a1-40b6-864b-b2bcbcb94b51,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-07-31,PROD_020,Apparel,2,66.55,133.1
+5d3006f1-9d82-49a8-962a-535a109b2fe3,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2024-01-05,PROD_041,Groceries,1,438.19,438.19
+655db540-a648-497f-bbfc-e0e6df775982,CUST_008,David Johnson,david.johnson984@outlook.com,2023-12-09,PROD_046,Books,9,485.62,4370.58
+147f09e3-c8e5-413d-b5bf-7c9dee28bf8f,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2025-03-01,PROD_012,Electronics,2,92.69,185.38
+a385f163-5ea2-42d4-bfcb-a7df77d038ee,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-01-12,PROD_006,Books,8,362.42,2899.36
+d0bb6d3d-64d6-4110-a50b-8a523a6b38d7,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-08-04,PROD_017,Apparel,9,24.94,224.46
+e200f280-a73b-4095-9dc2-03a997d0d76d,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2025-04-20,PROD_019,Apparel,4,205.68,822.72
+04f7cb3d-3f61-44bd-95c6-7f6ac2f306b5,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-02-08,PROD_026,Groceries,8,260.56,2084.48
+5e101adc-ff94-4c12-bdc9-46b5ae0f13b2,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-08-12,PROD_048,Home Goods,9,292.42,2631.78
+eab7b6f2-af9f-4411-b4d9-3216007e517b,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2025-03-21,PROD_044,Groceries,5,468.29,2341.45
+3e08648e-94ed-414a-9a82-b4c00aaa05b2,CUST_034,James Moore,james.moore306@aol.com,2023-10-11,PROD_044,Books,7,337.76,2364.32
+2be45230-9fc1-47f2-8f1a-a407b9113e69,CUST_042,David Martin,david.martin800@yahoo.com,2023-11-04,PROD_032,Electronics,4,243.23,972.92
+9dbf723f-0941-4327-93c9-111256464f2b,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2024-04-16,PROD_006,Groceries,1,405.79,405.79
+e23b0201-9289-434e-b472-ac457c9e719d,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-08-08,PROD_036,Home Goods,3,475.51,1426.53
+9a01ae36-16f0-4226-92c6-bcbd629ac624,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2023-09-24,PROD_038,Groceries,5,15.92,79.6
+f06c7783-208d-45b6-b3df-67658f1107f0,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2025-03-10,PROD_011,Apparel,3,491.35,1474.05
+b3db429d-f3ce-4c44-bb26-394cd504565f,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-08-31,PROD_033,Books,7,47.64,333.48
+749fe481-5f99-4a14-a843-e602186b395c,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-11-02,PROD_024,Books,9,408.12,3673.08
+b2a489f4-3a94-48dc-bd9b-bd0ad92a96ac,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-11-02,PROD_023,Books,6,143.77,862.62
+6c72420b-26cc-444b-b870-041fd8eed057,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2025-01-03,PROD_015,Books,1,70.43,70.43
+7c4d7d64-bd42-4131-a922-61c607030b9b,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2024-03-12,PROD_027,Books,7,222.73,1559.11
+6c6f4330-4e2d-4e3e-8e54-80647ecb051c,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-03-13,PROD_011,Books,3,323.76,971.28
+31f57083-e4a2-4da9-a1a4-751f51bf2240,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2024-11-17,PROD_050,Electronics,5,193.57,967.85
+353c8a57-9945-412e-9de5-4f861e18fa90,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2024-07-11,PROD_017,Home Goods,4,32.01,128.04
+cd2084d1-e31d-4076-8c98-50358c928aa0,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2025-02-15,PROD_014,Books,5,301.73,1508.65
+8182d094-fc0c-495a-aff5-d039eaefffae,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2023-10-22,PROD_027,Home Goods,5,451.69,2258.45
+013b7ad2-a358-459b-9905-0fc960c0d1b4,CUST_008,David Johnson,david.johnson984@outlook.com,2024-04-16,PROD_018,Books,6,194.69,1168.14
+650d92a6-914a-4e0b-8e2d-e9eb5a1c2255,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2025-04-15,PROD_028,Groceries,6,112.08,672.48
+705adcb0-63a8-4e09-8bb2-78488a7b3673,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2023-11-30,PROD_047,Books,8,224.08,1792.64
+ba2ba132-203e-4dc0-a117-5e845bd6a49f,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-06-29,PROD_047,Apparel,8,28.94,231.52
+1aea83eb-1fba-40da-b8f8-36de9248aa75,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2023-08-23,PROD_004,Electronics,9,411.14,3700.26
+0a47fd7a-63ff-425b-8f12-571e79a167b5,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2025-02-26,PROD_007,Groceries,8,414.04,3312.32
+7fc577b3-688e-48cf-a669-f12f52bc3d66,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-11-02,PROD_045,Groceries,2,296.06,592.12
+81c2f324-cf27-47d8-bb42-b3deb2d16fe3,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-06-08,PROD_035,Apparel,1,179.79,179.79
+67983013-b303-41cf-9f50-87120e5e6781,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2023-10-01,PROD_048,Books,2,400.89,801.78
+60e070c9-5345-4b43-8b82-5feb332b70bd,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2025-04-26,PROD_009,Electronics,2,279.57,559.14
+89bcc8cc-8ddc-4103-9289-2af9a41e4f0f,CUST_030,Joseph Jones,joseph.jones989@aol.com,2025-04-17,PROD_008,Groceries,3,413.84,1241.52
+1d54afbf-7173-4e9e-a96c-17fa1efc33b6,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-02-20,PROD_045,Electronics,7,317.57,2222.99
+9152b44c-c4ea-468f-ad24-b3570c847e4e,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2025-01-07,PROD_017,Groceries,2,393.28,786.56
+9c3300fd-2786-460a-b2a0-1370bc3bbb92,CUST_047,John Williams,john.williams507@gmail.com,2023-11-25,PROD_017,Books,1,301.29,301.29
+dcce5316-d794-4a4d-ada1-d7abebace715,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2025-07-09,PROD_049,Groceries,6,210.0,1260.0
+281a32f2-4bb8-4399-999a-adbc4b3a7481,CUST_011,Jennifer Jones,jennifer.jones316@icloud.com,2024-04-07,PROD_033,Groceries,9,479.18,4312.62
+7f781835-8fd9-47bc-8d30-5784c18d00f4,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-12-27,PROD_032,Home Goods,3,272.85,818.55
+87e16b86-cb3a-4e6b-bfe1-7739d22f2fd6,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-03-05,PROD_008,Books,6,304.52,1827.12
+cd9888e4-da9b-486a-9bfc-a46d39d9c109,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2025-03-21,PROD_019,Apparel,3,114.14,342.42
+bac2e9ad-e99c-46ab-98f6-dfb3d11d6d71,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2024-07-16,PROD_038,Apparel,1,314.7,314.7
+cd538414-61b3-4cb4-807a-0459d0c6fbcb,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2023-10-26,PROD_003,Books,5,287.95,1439.75
+d8318ff5-fc2f-4cc7-86fb-643676928978,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2023-11-18,PROD_005,Apparel,4,96.5,386.0
+e0894522-53fc-49f2-8617-f00d3676972e,CUST_017,James Thomas,james.thomas681@icloud.com,2024-10-19,PROD_013,Books,7,34.5,241.5
+fb5372d4-475c-4756-8d57-1d85aa495c7a,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2024-08-22,PROD_047,Apparel,6,304.16,1824.96
+1ef03bcc-2ce6-431a-bc62-c6da17f10de6,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-12-22,PROD_046,Home Goods,7,383.03,2681.21
+f90892bd-a67f-4bf4-86cf-bd47bb45d7df,CUST_004,John Johnson,john.johnson267@gmail.com,2023-11-09,PROD_031,Apparel,5,264.08,1320.4
+a825521c-6e25-49bc-9a43-ed6e84ae10ec,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2023-10-24,PROD_016,Groceries,4,117.25,469.0
+f1b0b53e-0c48-403b-96f3-3d00e29b6d12,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2024-12-24,PROD_050,Books,7,334.93,2344.51
+8afc42ec-8c68-4131-be14-f601a4b66f72,CUST_036,Robert Martin,robert.martin381@outlook.com,2025-01-26,PROD_032,Electronics,7,44.65,312.55
+5fff9718-34c5-4a3b-81d5-62e529b9d0d4,CUST_023,Michael Moore,michael.moore356@yahoo.com,2024-12-04,PROD_022,Electronics,6,223.71,1342.26
+caa24ced-2f97-4beb-998c-80794688ee0d,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2023-12-28,PROD_029,Books,8,85.87,686.96
+c18831ea-077c-4a15-b670-c9aeb6f9ff31,CUST_042,David Martin,david.martin800@yahoo.com,2023-10-25,PROD_022,Home Goods,4,96.31,385.24
+d2c28a38-99de-41ff-9315-6db53168c62a,CUST_041,William Miller,william.miller271@icloud.com,2024-12-25,PROD_043,Apparel,5,105.14,525.7
+536c920b-d304-4667-948f-37637eaaba5d,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-09-06,PROD_003,Home Goods,4,196.42,785.68
+1c8c6374-caca-47b7-9c1a-b7e48c1b48b8,CUST_014,Christopher Williams,christopher.williams568@yahoo.com,2024-03-01,PROD_010,Electronics,1,30.32,30.32
+49ccecdd-cd1e-4b84-8f7e-e746001c2457,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-05-08,PROD_042,Books,8,201.91,1615.28
+08a53541-1a07-4b91-a6bc-71311ef8bbf5,CUST_019,Elizabeth Brown,elizabeth.brown191@hotmail.com,2024-02-23,PROD_021,Books,1,258.3,258.3
+0d15de23-a67f-4b31-b59d-df28ac7a4077,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2025-01-16,PROD_016,Home Goods,5,244.23,1221.15
+2098ff2b-d147-416d-8437-beaee26c67de,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2024-05-11,PROD_012,Home Goods,6,194.48,1166.88
+3f47e925-f455-4a55-a840-9079068542a2,CUST_007,Joseph Davis,joseph.davis537@icloud.com,2024-06-07,PROD_002,Apparel,6,420.38,2522.28
+e37380f0-2c25-4566-9489-e046c7424fca,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-11-07,PROD_041,Groceries,5,76.94,384.7
+b977b91f-5f8d-4758-a609-2b9a554e89af,CUST_024,Susan Gonzalez,susan.gonzalez989@outlook.com,2024-02-02,PROD_024,Groceries,3,255.32,765.96
+67f736bd-75dc-4047-823e-9c813d13d8d2,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2023-12-19,PROD_035,Apparel,5,35.71,178.55
+26cf3639-e7cc-4971-9cd1-24ab5d3739c7,CUST_029,Michael Martinez,michael.martinez233@yahoo.com,2024-05-11,PROD_030,Groceries,8,40.22,321.76
+9a0319d0-0994-47b8-bcca-e92084d42fd5,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-07-06,PROD_030,Electronics,2,289.06,578.12
+51a374f0-b304-43d0-90db-e7b3fa0386f0,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2025-05-21,PROD_047,Groceries,6,285.18,1711.08
+c22da914-04a8-47c0-abb8-3f35e1fd158f,CUST_042,David Martin,david.martin800@yahoo.com,2025-07-04,PROD_035,Apparel,9,439.63,3956.67
+b990426f-ab5c-4e9f-90ec-94b024842a39,CUST_034,James Moore,james.moore306@aol.com,2024-05-13,PROD_019,Groceries,8,281.15,2249.2
+daa8a426-3695-4d70-b8ab-bad9e5aa9f20,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-11-12,PROD_050,Books,8,480.1,3840.8
+eff470ee-df82-43c5-9405-ff51f91f25ab,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2023-10-04,PROD_008,Home Goods,8,29.1,232.8
+dfbccc92-771c-4dc8-9213-8c7201652cf0,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2024-06-22,PROD_026,Electronics,7,53.51,374.57
+cbb28505-7c00-4781-893c-c0b4d2c312f2,CUST_026,Susan Taylor,susan.taylor233@gmail.com,2023-09-16,PROD_049,Books,8,26.81,214.48
+09513af0-0ea4-447d-bafe-5787440fd422,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-08-29,PROD_040,Books,6,96.71,580.26
+c1b5cd2f-0202-4810-b477-89d26e82fa7f,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2023-09-21,PROD_007,Apparel,2,272.93,545.86
+0723e99b-1a3a-49c4-b6ce-14865c6ff227,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-03-20,PROD_030,Home Goods,2,324.56,649.12
+fc47ae91-1dc1-4f30-acb1-a2cd94fa8133,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2023-09-14,PROD_007,Home Goods,8,27.56,220.48
+8e280fa3-357c-4c86-b971-741ef8241b3a,CUST_036,Robert Martin,robert.martin381@outlook.com,2023-11-26,PROD_003,Electronics,1,473.26,473.26
+7d59e943-137e-4903-a4c9-1fa26ae9c91f,CUST_047,John Williams,john.williams507@gmail.com,2025-07-29,PROD_001,Apparel,6,421.87,2531.22
+3e45fb73-9bd3-4bab-be10-e7f56856b658,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2025-07-25,PROD_036,Electronics,6,151.82,910.92
+48b4357e-ab72-42c4-b795-03cc61cedf6b,CUST_030,Joseph Jones,joseph.jones989@aol.com,2024-06-30,PROD_025,Groceries,4,43.21,172.84
+d93a1034-78a4-4efc-a608-87f46e2f67f6,CUST_046,Sarah Garcia,sarah.garcia659@gmail.com,2025-07-18,PROD_037,Books,3,89.09,267.27
+f2aa1775-2aa9-4dfb-b977-2d56c28ba792,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2025-05-01,PROD_001,Electronics,3,67.84,203.52
+86c3baf7-1d61-4c1e-8c9b-67b5064ce32e,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-08-15,PROD_015,Books,1,66.03,66.03
+32abc783-ba14-482c-a4c4-6b52578efd32,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2024-11-09,PROD_037,Apparel,3,261.69,785.07
+033eda9a-5598-4b72-9571-fa2819589ade,CUST_047,John Williams,john.williams507@gmail.com,2025-04-11,PROD_013,Groceries,4,126.69,506.76
+a2decbe0-6273-4213-b4f5-a1f8e96d5674,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2024-12-31,PROD_040,Apparel,5,182.28,911.4
+6f4b7317-0134-4a2f-a2f6-c9e971b49031,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2025-04-28,PROD_008,Groceries,3,494.81,1484.43
+e616be2b-082b-4a54-b87b-bd9648c811c5,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2025-04-03,PROD_005,Groceries,6,343.74,2062.44
+b5a930c2-4f5f-46b4-979d-202dc5d26678,CUST_044,David Williams,david.williams849@aol.com,2024-08-20,PROD_009,Books,5,474.75,2373.75
+0b0524e8-d621-4e69-8b0e-921ba9687fa8,CUST_043,Joseph Wilson,joseph.wilson84@aol.com,2025-02-12,PROD_001,Apparel,3,75.57,226.71
+b63c2e49-fb90-4480-aa64-c034186b7682,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2023-10-31,PROD_036,Apparel,6,194.16,1164.96
+d0a28cd8-12f9-400a-b915-5b24af3c2a0c,CUST_042,David Martin,david.martin800@yahoo.com,2024-01-11,PROD_035,Electronics,6,279.59,1677.54
+e314cd88-6d47-477a-b57e-21047e605f80,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2025-04-10,PROD_002,Apparel,8,43.0,344.0
+175b645d-7391-41cb-8d26-476332e22530,CUST_031,Patricia Martin,patricia.martin864@outlook.com,2024-11-29,PROD_040,Electronics,2,7.07,14.14
+1ff72236-b6c3-4ea1-9170-8dbdcd7442b9,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-03-20,PROD_023,Home Goods,1,336.86,336.86
+78437213-434f-4045-98e7-04d4fe1105d8,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2024-05-25,PROD_009,Home Goods,4,322.7,1290.8
+b179afcd-a5d0-49cd-9d8e-4f954c78bc8f,CUST_004,John Johnson,john.johnson267@gmail.com,2025-05-05,PROD_034,Home Goods,7,208.34,1458.38
+a9404799-6212-40ae-b0be-cd5bf9be511d,CUST_036,Robert Martin,robert.martin381@outlook.com,2024-04-21,PROD_046,Apparel,3,247.37,742.11
+72809f01-4dd6-47b4-bce5-36ee3491806f,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2025-01-05,PROD_014,Apparel,3,210.64,631.92
+f043491a-3e48-478a-93b2-604dd2b2d1d4,CUST_037,Michael Hernandez,michael.hernandez33@aol.com,2024-04-13,PROD_004,Electronics,5,16.88,84.4
+1031fa37-a85e-4bf2-a1ba-aef70f2bc92b,CUST_004,John Johnson,john.johnson267@gmail.com,2024-05-01,PROD_030,Groceries,5,171.01,855.05
+bae1af48-3124-4bb8-b993-85d263c8f6a2,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2025-08-07,PROD_031,Electronics,3,92.66,277.98
+65aea928-4781-44d9-8a70-c8a23564bf1b,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2024-07-08,PROD_038,Home Goods,9,53.72,483.48
+4bb71fe0-7b69-46ec-8d87-70e1066d8933,CUST_041,William Miller,william.miller271@icloud.com,2024-10-19,PROD_011,Electronics,4,478.58,1914.32
+683f7b35-afca-4a10-9558-4a1ec09cbcf1,CUST_016,Jennifer Jackson,jennifer.jackson336@outlook.com,2024-12-29,PROD_035,Groceries,3,301.68,905.04
+a2cf7b7f-9099-44f2-a16f-affde2082dd3,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2025-06-12,PROD_008,Apparel,2,365.68,731.36
+ef8672df-7f92-432e-94c7-748efc77c151,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2025-04-27,PROD_003,Electronics,9,161.11,1449.99
+9511b294-4f68-42dc-b1e6-b7c0edac2390,CUST_032,Karen Brown,karen.brown731@gmail.com,2025-08-04,PROD_014,Home Goods,4,199.61,798.44
+90d86158-9f09-4413-b56f-ba227b48fbd5,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-07-20,PROD_013,Home Goods,3,122.28,366.84
+0100426f-9094-458b-b693-c4d42dab0267,CUST_002,Jennifer Gonzalez,jennifer.gonzalez120@icloud.com,2024-04-04,PROD_045,Apparel,7,53.0,371.0
+e5e8e3fa-2db9-4ad1-ae7a-d0fc22eeb7b0,CUST_044,David Williams,david.williams849@aol.com,2023-12-28,PROD_032,Electronics,8,93.62,748.96
+8cf86935-8a3d-431c-866b-a81c60dd090c,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2024-12-26,PROD_034,Groceries,2,399.77,799.54
+b020d830-7a12-48f6-8a0f-6fa87e392180,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2023-12-24,PROD_045,Apparel,7,340.39,2382.73
+92e78f21-e2ce-4754-9b03-ff415df589d0,CUST_028,Robert Thomas,robert.thomas326@hotmail.com,2024-10-07,PROD_019,Electronics,5,275.73,1378.65
+9e260f75-14ce-47bb-8543-294d903d524e,CUST_047,John Williams,john.williams507@gmail.com,2024-01-29,PROD_038,Books,5,240.17,1200.85
+09081b82-4cbf-4a53-83a0-298d8aeb3aa1,CUST_041,William Miller,william.miller271@icloud.com,2025-08-05,PROD_016,Home Goods,3,461.6,1384.8
+73080a16-d6f5-46a1-a0cd-4ad83f1fc940,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2025-01-20,PROD_002,Groceries,5,41.0,205.0
+0056ee86-a42c-414d-a3ae-f6f3518462cf,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2025-08-03,PROD_040,Groceries,2,143.9,287.8
+f301bc08-bc3b-475a-9589-1eba3d48bc1b,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2023-11-23,PROD_017,Groceries,4,178.22,712.88
+76be161d-c755-4294-aeb2-60e94b067e60,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-06-25,PROD_034,Home Goods,6,392.3,2353.8
+3b0fae75-278d-4740-bb6c-0338f8f4869c,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2024-06-06,PROD_042,Electronics,1,496.29,496.29
+499c1514-969f-4f6b-9c25-1437654b53b0,CUST_033,Barbara Taylor,barbara.taylor906@aol.com,2024-08-05,PROD_016,Apparel,4,124.13,496.52
+57a7ec97-43d1-4c29-9df1-54d27ee8b83d,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2025-07-28,PROD_038,Electronics,6,437.78,2626.68
+69836720-26d9-4393-9515-a840de0f86a8,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-01-08,PROD_002,Apparel,9,416.16,3745.44
+731f0c27-3356-41ab-a610-e57ca8108a4e,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2025-06-08,PROD_002,Groceries,2,116.21,232.42
+886b879e-e5d9-48e7-87d0-6cb94ec3fcb5,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2025-01-18,PROD_026,Electronics,7,202.67,1418.69
+e540a6ac-454b-4417-a22a-b5fd97e84f5f,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2025-05-08,PROD_013,Groceries,6,207.79,1246.74
+0d1b6ec8-b639-45a4-8c19-0e025dabc5c9,CUST_038,Joseph Anderson,joseph.anderson928@hotmail.com,2023-09-19,PROD_047,Books,2,489.22,978.44
+071a920d-89ae-4070-87d0-01aa052b039d,CUST_013,Linda Gonzalez,linda.gonzalez224@aol.com,2025-04-07,PROD_031,Groceries,8,94.54,756.32
+e76dfca4-7651-4065-9b11-77d7352f4ee5,CUST_006,Mary Lopez,mary.lopez170@gmail.com,2023-12-03,PROD_034,Groceries,7,400.58,2804.06
+caab49e7-e518-4574-8159-9e29e5a44046,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2024-08-01,PROD_039,Apparel,5,170.43,852.15
+2c5d6e7e-cbe7-4c50-bcc0-8b1967668cc1,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2025-04-07,PROD_003,Books,5,366.78,1833.9
+ff4f25b1-fbf2-45df-a9fb-4002e5426cbd,CUST_015,Linda Gonzalez,linda.gonzalez749@gmail.com,2025-07-28,PROD_008,Groceries,7,212.91,1490.37
+a75003ee-c208-4c8c-8c6f-2ac460218615,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-02-28,PROD_023,Groceries,9,291.29,2621.61
+ead66ec3-3de5-4e85-bc7c-311e57d763a7,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2025-01-02,PROD_014,Books,9,417.14,3754.26
+fccb98b5-4dd6-4318-99be-39deb4e14424,CUST_001,Thomas Williams,thomas.williams160@hotmail.com,2025-03-16,PROD_027,Books,9,403.06,3627.54
+37792d62-feb7-43b6-bf83-91163d6ac40b,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2024-05-05,PROD_029,Electronics,6,433.88,2603.28
+48237220-fda1-41f1-adfd-46cfcd4f3bed,CUST_023,Michael Moore,michael.moore356@yahoo.com,2024-07-08,PROD_039,Apparel,6,34.51,207.06
+88c2e71c-a76a-46ea-a25a-d8b8a9619166,CUST_020,Jennifer Miller,jennifer.miller133@hotmail.com,2025-01-27,PROD_039,Books,3,347.57,1042.71
+f011b010-96de-47de-b4f5-6276465b5f82,CUST_035,Joseph Lopez,joseph.lopez676@hotmail.com,2025-07-10,PROD_001,Books,1,74.29,74.29
+753c3453-91ab-4f35-87fe-b75560ba00d4,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2025-02-10,PROD_017,Home Goods,7,210.83,1475.81
+811cc105-d861-49ee-8c73-7f0b3f5edf33,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2025-06-21,PROD_041,Books,4,276.55,1106.2
+82c2f18c-a64d-4d5f-859c-b01a92ed3a6b,CUST_041,William Miller,william.miller271@icloud.com,2025-07-28,PROD_030,Apparel,1,204.36,204.36
+3b7b0d9f-1131-48d5-a854-df3898b8b4a2,CUST_005,Robert Rodriguez,robert.rodriguez195@gmail.com,2024-11-17,PROD_013,Groceries,8,262.21,2097.68
+57ebf434-436d-4cd8-b697-0134a813e311,CUST_022,Elizabeth Hernandez,elizabeth.hernandez437@aol.com,2025-04-20,PROD_021,Groceries,6,498.28,2989.68
+0b9b9937-469a-4b4e-ad33-3e8f2cfdf4c9,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-01-12,PROD_019,Groceries,6,71.93,431.58
+1924904e-a642-4b86-bfc0-dd35eece7eda,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2024-03-19,PROD_019,Groceries,2,339.35,678.7
+390b1a03-3436-4611-b615-4e38d3125396,CUST_025,Michael Johnson,michael.johnson224@icloud.com,2025-01-08,PROD_025,Home Goods,1,201.02,201.02
+95e61c02-1854-4b14-9476-b945650ada3e,CUST_032,Karen Brown,karen.brown731@gmail.com,2024-03-09,PROD_022,Books,2,70.84,141.68
+ac9ac255-5fef-4f79-b957-088b3ceccb08,CUST_008,David Johnson,david.johnson984@outlook.com,2024-03-20,PROD_031,Groceries,4,83.57,334.28
+39f49c20-38af-4484-b6ae-9fb4940d47c4,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2023-08-20,PROD_017,Electronics,2,474.89,949.78
+b88bac39-f562-4ee5-a3f7-3ff3ca08b660,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-09-15,PROD_023,Groceries,1,440.4,440.4
+35ea52d3-5384-45ed-9984-1eb04e04f8a3,CUST_048,Jennifer Anderson,jennifer.anderson162@icloud.com,2023-09-19,PROD_032,Books,7,453.99,3177.93
+73b74944-64ab-4332-b4f3-7bf842ee1b00,CUST_034,James Moore,james.moore306@aol.com,2025-06-23,PROD_010,Groceries,8,495.81,3966.48
+5a25df25-de48-4d03-afbc-fd917208f3ec,CUST_032,Karen Brown,karen.brown731@gmail.com,2024-04-04,PROD_010,Home Goods,6,108.12,648.72
+9a1dfedb-8787-494b-93d8-9c63138ba084,CUST_027,Linda Johnson,linda.johnson700@icloud.com,2024-02-28,PROD_036,Apparel,4,180.94,723.76
+63e97fe3-a14b-4152-85b8-9ef600bb610d,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2025-03-08,PROD_008,Apparel,6,336.26,2017.56
+455f597d-474a-4887-be79-36ce642bd195,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2023-10-17,PROD_020,Books,3,244.48,733.44
+6c180675-fe80-4713-a984-7383c8f1488a,CUST_012,John Gonzalez,john.gonzalez593@yahoo.com,2024-01-01,PROD_032,Apparel,8,212.1,1696.8
+0e542b85-a034-403c-a7ce-e4f1c1f9962a,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2025-03-11,PROD_050,Apparel,2,182.12,364.24
+30c21dec-2eb8-4118-b24b-f0a9b1d9ebfb,CUST_040,Patricia Taylor,patricia.taylor99@icloud.com,2025-02-10,PROD_014,Electronics,5,298.92,1494.6
+7cf831a1-ae6d-4630-aa06-4a2c22fe1e44,CUST_018,David Gonzalez,david.gonzalez345@icloud.com,2025-06-18,PROD_050,Books,1,289.92,289.92
+e18b333a-d134-43f6-ac4e-19dd94b70cd7,CUST_003,Joseph Rodriguez,joseph.rodriguez580@aol.com,2024-10-02,PROD_028,Books,6,84.92,509.52
+b76a4b0d-7477-428e-bdee-04635c4aead4,CUST_049,Robert Taylor,robert.taylor793@outlook.com,2025-01-18,PROD_046,Apparel,2,238.51,477.02
+a55f1135-cde1-4b15-9e3e-76c31bc041b9,CUST_045,Barbara Anderson,barbara.anderson976@icloud.com,2024-07-07,PROD_024,Apparel,4,278.97,1115.88
+ead9e040-ac3a-44be-a5ce-79ecbfa8437a,CUST_047,John Williams,john.williams507@gmail.com,2023-10-23,PROD_015,Apparel,6,287.29,1723.74
+a247f0dd-6372-4987-ab83-2d2f79a9347b,CUST_050,Karen Anderson,karen.anderson492@hotmail.com,2025-04-30,PROD_022,Home Goods,8,109.0,872.0
+4ead06e0-c4d5-4c7a-89af-dea4cdcc218c,CUST_009,Joseph Garcia,joseph.garcia328@hotmail.com,2025-06-02,PROD_030,Groceries,8,372.42,2979.36
+10100414-26e1-4bb5-b77f-b241196a7bf9,CUST_021,Richard Jackson,richard.jackson31@yahoo.com,2024-02-22,PROD_004,Home Goods,6,17.47,104.82
+8953f8e1-fa26-4207-aea6-6345eaeb2aca,CUST_039,David Johnson,david.johnson430@yahoo.com,2024-10-07,PROD_013,Books,4,180.64,722.56
