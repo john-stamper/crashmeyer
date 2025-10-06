@@ -2,7 +2,14 @@
 
 PROJ_ID=crashmeyer
 PROJ_NAME="CRASHMEYER"
-PROJ_OWNER_ACCOUNT="stamper.john@gmail.com"
+
+# CHANGE THE PROJECT OWNER ACCOUNT VALUE TO A USER WHO HAS OWNER PRIVILEGES TO CREATE PROJECTS
+# AND RESOURCES
+
+PROJ_OWNER_ACCOUNT="CHANGE_ME"
+#
+
+
 BILLING_ACCOUNT_ID=`gcloud billing accounts list --filter=open=true --format="value(ACCOUNT_ID)"`
 
 gcloud projects create $PROJ_ID --name $PROJ_NAME --set-as-default
