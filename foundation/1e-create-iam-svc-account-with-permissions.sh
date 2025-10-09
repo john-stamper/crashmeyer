@@ -10,6 +10,9 @@ gcloud iam service-accounts create $SERVICE_ACCOUNT_NAME \
   --description="A service account for Cloud SQL connections and access to KMS key" \
   --display-name="$SERVICE_ACCOUNT_NAME"
 
+# SERVICE ACCOUNT USE IS EVENTUALLY CONSISTENT
+sleep 10
+
 SERVICE_ACCOUNT_EMAIL=`gcloud iam service-accounts list --filter="displayName:$SERVICE_ACCOUNT_NAME" --format="value(email)"`
 
 gcloud projects add-iam-policy-binding $PROJECT_ID \
