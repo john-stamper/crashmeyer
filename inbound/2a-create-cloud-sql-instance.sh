@@ -7,7 +7,7 @@ DB_ROOT_PASSWORD=`gcloud secrets versions access latest --secret=db-password`
 
 gcloud sql instances create $DB_INSTANCE_NAME \
 	--database-version=POSTGRES_17 \
-	--region=us-east5 \
+	--region=us-central1 \
 	--cpu=2 \
 	--memory=8GB \
 	--edition=ENTERPRISE \

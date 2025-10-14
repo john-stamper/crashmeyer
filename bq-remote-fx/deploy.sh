@@ -1,9 +1,10 @@
 #!/bin/bash
 
-gcloud run deploy crashmeyer-bq-remotefx-decryptor \
+gcloud functions deploy crashmeyer-bq-remotefx-decryptor \
 	--gen2 \
-	--source . \ 
-	--runtime go124 \ 
-	--entry-point AEADDecrypt \
+	--runtime go124 \
+	--source . \
 	--region us-central1 \
+	--entry-point AEADDecrypt \
+	--trigger-http \
 	--allow-unauthenticated \
