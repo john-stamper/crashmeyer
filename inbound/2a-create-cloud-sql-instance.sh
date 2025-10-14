@@ -14,3 +14,5 @@ gcloud sql instances create $DB_INSTANCE_NAME \
 	--root-password="$DB_ROOT_PASSWORD"
 
 gcloud sql databases create $DB_NAME --instance $DB_INSTANCE_NAME
+SQL_INSTANCE_ID=`gcloud sql instances describe $DB_INSTANCE_NAME --format="value(connectionName)"`
+echo "database.instanceconnectionname=$SQL_INSTANCE_ID" >> ../sql-app/src/main/resources/config.properties

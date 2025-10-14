@@ -15,3 +15,5 @@ BILLING_ACCOUNT_ID=`gcloud billing accounts list --filter=open=true --format="va
 gcloud projects create $PROJ_ID --name $PROJ_NAME --set-as-default
 gcloud config set account $PROJ_OWNER_ACCOUNT
 gcloud billing projects link $PROJ_ID --billing-account=$BILLING_ACCOUNT_ID
+PROJECT_ID=`gcloud config list --format="value(core.project)"`
+echo "project.id=$PROJECT_ID" >> ../sql-app/src/main/resources/config.properties
