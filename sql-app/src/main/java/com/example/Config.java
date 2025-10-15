@@ -1,22 +1,27 @@
+//Copyright 2024 Google LLC
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//https://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+
 package com.example;
 
+import com.google.cloud.secretmanager.v1.Secret;
+import com.google.cloud.secretmanager.v1.SecretManagerServiceClient;
+import com.google.cloud.secretmanager.v1.SecretName;
+import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
 public class Config {
-//    private   String dbUser = "postgres";
-//    private   String dbPass = "Pa55w0rd019283";
-//    private   String dbName = "acme";
-//    private   String tableName = "sales";
-//    private   String instanceConnectionName = "blog-465608:us-central1:blog";
-//    private   String dbEndpoint = "34.134.69.20";
-//    private   String dbPort = "5432";
-//    private String dbSocketFactory = "com.google.cloud.sql.postgres.SocketFactory";
-//
-//    private String kmsURI = "gcp-kms://projects/blog-465608/locations/global/keyRings/blog/cryptoKeys/data-encrypt-decrypt";
-//
-//    private String tableDataFile = "/home/stamperj/gcp/blog/datasets/blog_mock_dataset_50cust_1000purch.csv";
-
     private Properties properties;
 
     public Config() {
@@ -41,7 +46,23 @@ public class Config {
     }
 
     public String getDbPass() {
-        return properties.getProperty("database.password");
+        String dbpwd = null;
+        try (SecretManagerServiceClient client = SecretManagerServiceClient.create()) {
+            // Build the name.
+            SecretName secretName = SecretName.of(properties.getProperty("project.id"), properties.getProperty("secret.id"));
+
+            // Create the secret.
+            Secret secret = client.getSecret(secretName);
+
+            System.out.printf("Secret %s\n", secret.getName());
+            dbpwd = secret.getName();
+        } catch (IOException ioe) {
+            System.out.println("IOException fetching database password from SecretMgr Service");
+            System.out.println(ioe.getMessage());
+            dbpwd = "NO_PASSWORD";
+        }
+
+        return dbpwd;
     }
 
     public String getDbName() {
@@ -71,6 +92,8 @@ public class Config {
     public String getTableDataFile() {
         return properties.getProperty("database.datafile");
     }
+
+    public String getDbInstancePort() { return properties.getProperty("database.port"); }
 
     public static void main(String[] args) {
         Config config = new Config();

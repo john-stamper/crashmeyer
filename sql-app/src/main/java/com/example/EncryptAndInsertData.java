@@ -1,3 +1,17 @@
+//Copyright 2024 Google LLC
+//
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
+//You may obtain a copy of the License at
+//
+//https://www.apache.org/licenses/LICENSE-2.0
+//
+//Unless required by applicable law or agreed to in writing, software
+//distributed under the License is distributed on an "AS IS" BASIS,
+//WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//See the License for the specific language governing permissions and
+//limitations under the License.
+
 package com.example;
 
 
@@ -14,28 +28,15 @@ import java.util.List;
 
 public class EncryptAndInsertData {
 
-    public static void main(String[] args) throws GeneralSecurityException, SQLException {
+    public static void main(String[] args) throws GeneralSecurityException, SQLException, IOException {
         // Saving credentials in environment variables is convenient, but not secure - consider a more
         // secure solution such as Cloud Secret Manager to help keep secrets safe.
         Config myconfig = new Config();
-//        String dbUser = "postgres"; // e.g. "root", "postgres"
-//        String dbPass = "Pa55w0rd019283"; // e.g. "mysupersecretpassword"
-//        String dbName = "postgres"; // e.g. "votes_db"
-//        String instanceConnectionName =
-//                System.getenv("INSTANCE_CONNECTION_NAME"); // e.g. "project-name:region:instance-name"
-//        String kmsUri = "gcp-kms://projects/blog-465608/locations/global/keyRings/blog/cryptoKeys/data-encrypt-decrypt"; // e.g. "gcp-kms://projects/...path/to/key
-//        // Tink uses the "gcp-kms://" prefix for paths to keys stored in Google Cloud KMS. For more
-//        // info on creating a KMS key and getting its path, see
-//        // https://cloud.google.com/kms/docs/quickstart
-
-//        String team = myconfig.getRowFieldTeam();
         String tableName = myconfig.getDbTableName();
-//        String email = myconfig.getRowFieldEmail();
 
         // Initialize database connection pool and create table if it does not exist
         // See CloudSqlConnectionPool.java for setup details
         DataSource pool = CloudSqlConnectionPool.createConnectionPool(myconfig);
-        //CloudSqlConnectionPool.createTable(pool, tableName);
 
         // Initialize envelope AEAD
         // See CloudKmsEnvelopeAead.java for setup details
@@ -45,7 +46,7 @@ public class EncryptAndInsertData {
     }
 
     public static void encryptAndInsertData(DataSource pool, Aead envAead, String tableName, com.example.Config config) throws GeneralSecurityException, SQLException {
-        String filePath = config.getTableDataFile(); // Replace with your file path
+        String filePath = config.getTableDataFile();
         List<String> linesList = null;
 
         try {
