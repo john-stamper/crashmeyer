@@ -23,7 +23,7 @@ import javax.sql.DataSource;
 
 public class CloudSqlConnectionPool {
 
-    public static DataSource createConnectionPool(com.example.Config myconfig) throws GeneralSecurityException, IOException {
+    public static DataSource createConnectionPool(com.example.Config myconfig) throws GeneralSecurityException {
 
         try {
             Class.forName("org.postgresql.Driver");
@@ -35,12 +35,10 @@ public class CloudSqlConnectionPool {
 
         HikariConfig config = new HikariConfig();
         config.setJdbcUrl(String.format(myconfig.getDbUrl(),myconfig.getDbName(),myconfig.getDbInstanceConnectionName(),myconfig.getDbSocketFactory()));
+
         config.setUsername(myconfig.getDbUser()); // e.g. "root", "postgres"
-        try {
-            config.setPassword(myconfig.getDbPass()); // e.g. "my-password"
-        } catch (IOException e) {
-            throw new RuntimeException("Failed to load DB password from Secrets Mgr",e);
-        }
+        config.setPassword(myconfig.getDbPass()); // e.g. "my-password"
+
         DataSource pool = new HikariDataSource(config);
         return pool;
     }
