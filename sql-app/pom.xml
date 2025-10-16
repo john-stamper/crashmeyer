@@ -17,7 +17,7 @@
       <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>libraries-bom</artifactId>
-        <version>26.61.0</version>
+        <version>26.69.0</version>
         <type>pom</type>
         <scope>import</scope>
       </dependency>
@@ -28,6 +28,12 @@
   <!-- This is the section where you declare the actual dependencies for THIS project -->
 
   <dependencies>
+
+      <dependency>
+        <groupId>com.google.cloud</groupId>
+        <artifactId>google-cloud-secretmanager</artifactId>
+      </dependency>
+
     <!-- https://mvnrepository.com/artifact/com.google.cloud.sql/postgres-socket-factory -->
     <dependency>
       <groupId>com.google.cloud.sql</groupId>
