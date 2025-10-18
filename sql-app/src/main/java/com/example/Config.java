@@ -14,15 +14,11 @@
 
 package com.example;
 
-import com.google.cloud.secretmanager.v1.Secret;
-import com.google.cloud.secretmanager.v1.SecretManagerServiceClient;
-import com.google.cloud.secretmanager.v1.SecretName;
-import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
 public class Config {
-    private Properties properties;
+    private final Properties properties;
 
     public Config() {
         properties = new Properties();
@@ -45,25 +41,7 @@ public class Config {
         return properties.getProperty("database.username");
     }
 
-    public String getDbPass() {
-        String dbpwd = null;
-        try (SecretManagerServiceClient client = SecretManagerServiceClient.create()) {
-            // Build the name.
-            SecretName secretName = SecretName.of(properties.getProperty("project.id"), properties.getProperty("secret.id"));
-
-            // Create the secret.
-            Secret secret = client.getSecret(secretName);
-
-            System.out.printf("Secret %s\n", secret.getName());
-            dbpwd = secret.getName();
-        } catch (IOException ioe) {
-            System.out.println("IOException fetching database password from SecretMgr Service");
-            System.out.println(ioe.getMessage());
-            dbpwd = "NO_PASSWORD";
-        }
-
-        return dbpwd;
-    }
+    public String getDbPass() { return properties.getProperty("database.password")};
 
     public String getDbName() {
         return properties.getProperty("database.name");
@@ -75,10 +53,6 @@ public class Config {
 
     public String getDbInstanceConnectionName() {
         return properties.getProperty("database.instanceconnectionname");
-    }
-
-    public String getDbEndpoint() {
-        return properties.getProperty("database.endpoint");
     }
 
     public String getDbSocketFactory() {
@@ -93,8 +67,6 @@ public class Config {
         return properties.getProperty("database.datafile");
     }
 
-    public String getDbInstancePort() { return properties.getProperty("database.port"); }
-
     public static void main(String[] args) {
         Config config = new Config();
         System.out.println(config.getDbPass());
@@ -102,3 +74,4 @@ public class Config {
         System.out.println(config.getDbUrl());
     }
 }
+
