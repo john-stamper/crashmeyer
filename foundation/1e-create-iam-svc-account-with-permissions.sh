@@ -2,6 +2,7 @@
 
 SERVICE_ACCOUNT_NAME="sql-client-kms"
 PROJECT_ID=`gcloud config list --format="value(core.project)"`
+KEY_FILE_NAME="sa-sqlclient-kms.json"
 
 KEY_RING="crashmeyer"
 KEY_NAME="symmetric-encrypt-decrypt"
@@ -24,3 +25,6 @@ gcloud kms keys add-iam-policy-binding $KEY_NAME \
     --keyring=$KEY_RING \
     --member="serviceAccount:$SERVICE_ACCOUNT_EMAIL" \
     --role="roles/cloudkms.cryptoKeyEncrypterDecrypter"
+
+gcloud iam service-accounts keys create ../sql-app/src/main/resources/$KEY_FILE_NAME \
+    --iam-account="${SERVICE_ACCOUNT_EMAIL}"
