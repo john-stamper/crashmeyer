@@ -12,7 +12,7 @@ gcloud sql instances create $DB_INSTANCE_NAME \
 	--cpu=2 \
 	--memory=8GB \
 	--edition=ENTERPRISE \
-	--root-password="$DB_ROOT_PASSWORD"
+	--root-password="$DB_ROOT_PASSWORD" \
 	--authorized-networks=$IP_ADDRESS/32
 
 gcloud sql databases create $DB_NAME --instance $DB_INSTANCE_NAME
