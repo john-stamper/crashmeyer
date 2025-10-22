@@ -48,5 +48,6 @@ public class CloudSqlConnectionPool {
     public static void main(String[] args) throws Exception{
         Config myconfig = new Config();
         DataSource dataSource = createConnectionPool(myconfig);
+	System.out.println(dataSource.toString());
     }
 }
