@@ -12,6 +12,6 @@ bq mk --connection --display_name="$DISPLAY_NAME" --connection_type='CLOUD_SQL' 
       crashmeyer-acme-connection
 
 gcloud projects add-iam-policy-binding $PROJECT_ID \
-  --member="serviceAccount:service-$PROJECT_NUMBER@gcp-sa-bigqueryconnecition.iam.gserviceaccount.com" \
+  --member="serviceAccount:service-$PROJECT_NUMBER@gcp-sa-bigqueryconnection.iam.gserviceaccount.com" \
   --role="roles/cloudsql.client" \
   --quiet
