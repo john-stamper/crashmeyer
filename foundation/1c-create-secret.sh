@@ -22,5 +22,4 @@ echo "Generated Password:"
 echo "$RANDOM_PASSWORD"
 echo "--------------------------------------------------------"
 
-printf "$RANDOM_PASSWORD" | gcloud secrets create db-password --data-file=-
 echo "database.password=$RANDOM_PASSWORD" >> ../sql-app/src/main/resources/config.properties

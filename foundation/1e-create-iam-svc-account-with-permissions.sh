@@ -18,7 +18,13 @@ SERVICE_ACCOUNT_EMAIL=`gcloud iam service-accounts list --filter="displayName:$S
 
 gcloud projects add-iam-policy-binding $PROJECT_ID \
   --member="serviceAccount:$SERVICE_ACCOUNT_EMAIL" \
-  --role="roles/cloudsql.client"
+  --role="roles/cloudsql.client" \
+  --quiet
+
+gcloud projects add-iam-policy-binding $PROJECT_ID \
+  --member="serviceAccount:$SERVICE_ACCOUNT_EMAIL" \
+  --role="roles/editor" \
+  --quiet
 
 gcloud kms keys add-iam-policy-binding $KEY_NAME \
     --location=global \

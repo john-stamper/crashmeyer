@@ -41,7 +41,7 @@ public class Config {
         return properties.getProperty("database.username");
     }
 
-    public String getDbPass() { return properties.getProperty("database.password")};
+    public String getDbPass() { return properties.getProperty("database.password");}
 
     public String getDbName() {
         return properties.getProperty("database.name");
