@@ -34,3 +34,5 @@ gcloud kms keys add-iam-policy-binding $KEY_NAME \
 
 gcloud iam service-accounts keys create ../sql-app/src/main/resources/$KEY_FILE_NAME \
     --iam-account="${SERVICE_ACCOUNT_EMAIL}"
+
+export GOOGLE_APPLICATION_CREDENTIALS=`realpath ../sql-app/src/main/resources/$KEY_FILE_NAME`
