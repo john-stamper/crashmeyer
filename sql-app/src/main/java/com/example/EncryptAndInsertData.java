@@ -18,10 +18,14 @@ package com.example;
 import com.google.crypto.tink.Aead;
 
 import javax.sql.DataSource;
+import java.io.File;
+import java.io.InputStream;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
 import java.security.GeneralSecurityException;
 import java.sql.*;
 import java.util.List;
@@ -45,13 +49,35 @@ public class EncryptAndInsertData {
         encryptAndInsertData(pool, envAead, tableName, myconfig);
     }
 
-    public static void encryptAndInsertData(DataSource pool, Aead envAead, String tableName, com.example.Config config) throws GeneralSecurityException, SQLException {
-        String filePath = config.getTableDataFile();
+    private static File getResourceAsFile(String resourceName) throws IOException {
+        InputStream inputStream = Config.class.getClassLoader().getResourceAsStream(resourceName);
+
+        if (inputStream == null) {
+            throw new IllegalArgumentException("Resource not found: " + resourceName);
+        }
+
+        // 1. Create a temporary file
+        Path tempDir = Files.createTempDirectory("resource-temp");
+        File tempFile = tempDir.resolve(resourceName).toFile();
+
+        // 2. Copy the contents from the InputStream to the temporary file
+        Files.copy(inputStream, tempFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+
+        // Ensure the temporary directory and file are marked for deletion on exit
+        tempFile.deleteOnExit();
+        tempDir.toFile().deleteOnExit();
+
+        return tempFile;
+    }
+
+    public static void encryptAndInsertData(DataSource pool, Aead envAead, String tableName, com.example.Config config) throws GeneralSecurityException, SQLException, IOException {
+        File dataFile = getResourceAsFile(config.getTableDataFile());
+
         List<String> linesList = null;
 
         try {
             // Read all lines from the file into a List<String>
-            linesList = Files.readAllLines(Paths.get(filePath));
+            linesList = Files.readAllLines(Paths.get(dataFile.getAbsolutePath()));
 
         } catch (IOException e) {
             System.err.println("Error reading file: " + e.getMessage());

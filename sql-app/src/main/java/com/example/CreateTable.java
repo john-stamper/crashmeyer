@@ -27,7 +27,6 @@ import java.sql.Statement;
 public class CreateTable {
     public static void main(String[] args) throws GeneralSecurityException, SQLException, IOException {
         Config myconfig = new Config();
-        String tableName = myconfig.getDbTableName();
         DataSource pool = CloudSqlConnectionPool.createConnectionPool(myconfig);
         StringBuilder sqlStmt = new StringBuilder();
 

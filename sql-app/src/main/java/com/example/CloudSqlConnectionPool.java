@@ -17,9 +17,8 @@ package com.example;
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
 
-import java.io.IOException;
-import java.security.GeneralSecurityException;
 import javax.sql.DataSource;
+import java.security.GeneralSecurityException;
 
 public class CloudSqlConnectionPool {
 
@@ -34,10 +33,13 @@ public class CloudSqlConnectionPool {
         }
 
         HikariConfig config = new HikariConfig();
-        config.setJdbcUrl(String.format(myconfig.getDbUrl(),myconfig.getDbName(),myconfig.getDbInstanceConnectionName(),myconfig.getDbSocketFactory()));
+        config.setJdbcUrl(String.format("jdbc:postgresql:///%s", myconfig.getDbName()));
 
         config.setUsername(myconfig.getDbUser()); // e.g. "root", "postgres"
         config.setPassword(myconfig.getDbPass()); // e.g. "my-password"
+
+        config.addDataSourceProperty("socketFactory", myconfig.getDbSocketFactory());
+        config.addDataSourceProperty("cloudSqlInstance", myconfig.getDbInstanceConnectionName());
 
         DataSource pool = new HikariDataSource(config);
         return pool;

@@ -74,4 +74,3 @@ public class Config {
         System.out.println(config.getDbUrl());
     }
 }
-
