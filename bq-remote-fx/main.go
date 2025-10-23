@@ -25,12 +25,8 @@ import (
 	"github.com/tink-crypto/tink-go/v2/keyset"
 	"log"
 	"net/http"
+	"os"
 	"strings"
-)
-
-const (
-	// AWS KMS, Google Cloud KMS and HashiCorp Vault are supported out of the box.
-	keyURI = "gcp-kms://projects/blog-465608/locations/global/keyRings/blog/cryptoKeys/data-encrypt-decrypt"
 )
 
 func init() {
@@ -38,6 +34,9 @@ func init() {
 }
 
 func AEADDecrypt(w http.ResponseWriter, r *http.Request) {
+
+	keyURI := os.Getenv("KMS_KEY_URI")
+
 	var requestData struct {
 		Calls [][]string `json:"calls"`
 	}
