@@ -28,7 +28,7 @@ gcloud projects add-iam-policy-binding $PROJECT_ID \
 
 gcloud projects add-iam-policy-binding $PROJECT_ID \
   --member="$PROJECT_NUMBER-compute@developer.gserviceaccount.com" \
-  --role="roles/cloudkms.cryptoKeyEncrypterDecrypter"
+  --role="roles/cloudkms.cryptoKeyEncrypterDecrypter" \
   --quiet
 
 gcloud kms keys add-iam-policy-binding $KEY_NAME \
