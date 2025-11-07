@@ -104,6 +104,21 @@ Crashmeyer is a step-by-step set of instructions to demonstrate how to insert re
 ```bash
     ./load-table.sh
 ```
+### View the encrypted PII fields
+21. Copy the database password stored in the ./main/resources/config.properties file
+
+22. Connect to the *acme* database and paste the password when prompted
+```bash
+    gcloud sql connect crashmeyer-instance –user postgres
+```
+23. Change to the *acme* database
+```bash
+    \c acme
+```
+24. Run a query to see the encrypted fields
+```sql
+select customer_id, full_name, email_address from sales limit 5;
+```
 
 
 
