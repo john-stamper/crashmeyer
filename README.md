@@ -1,25 +1,26 @@
 Open the Google Cloud Console, launch a Cloud Shell, Git clone the repository, and follow the instructions below. Each step below corresponds to a directory with the appropriate software for needed resources.
 
-Foundation 
-	Create a new project and link it to an open billing account - Update the script to set the PROJ_OWNER_ACCOUNT variable to a User Principal with Owner permissions prior to running the script.
+## 1 - Foundation 
+	Create a new project and link it to an open billing account
+	Update the script to set the PROJ_OWNER_ACCOUNT variable to a User Principal with Owner permissions prior to running the script.
 	Enable the required APIs - This script will take a minute to complete.
 	Create a Secret Manager secret for the Cloud SQL password
 	Create a KMS key for encryption and decryption
 	Create an IAM Service Account with Cloud SQL Client permissions and access to the KMS key
-Inbound 
+## 2 - Inbound 
 	Create a Cloud SQL Postgres instance and database - This script will take up to five minutes to complete.
-Outbound 
+## 3 - Outbound 
 	Create a BigQuery-Cloud SQL Connection
 	Create BigQuery Remote Function Connection
 	Create BigQuery Remote Function
 	
-Real-World Application
+## Real-World Application
 
-Create the Client App JAR
-	Navigate to the sql-app directory and run the following command:
-		
+## Create the Client App JAR
+	Navigate to the __sql-app__ directory and run the following command:
+		```
 		$ mvn package
-		
+		```
 		This will compile and package the Java code into a jar file for the next steps
 
 Create the sales table in the acme database
