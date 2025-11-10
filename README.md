@@ -109,7 +109,7 @@ Crashmeyer is a step-by-step set of instructions to demonstrate how to insert re
 
 22. Connect to the *acme* database and paste the password when prompted
 ```bash
-    gcloud sql connect crashmeyer-instance –user postgres
+    gcloud sql connect crashmeyer-instance --user postgres
 ```
 23. Change to the *acme* database
 ```bash
